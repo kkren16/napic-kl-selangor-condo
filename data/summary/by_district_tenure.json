@@ -156,7 +156,7 @@
   "state":"W.P. Kuala Lumpur",
   "district":"Kuala Lumpur",
   "tenure":"Freehold",
-  "transactions":10124,
+  "transactions":10141,
   "median_price_rm":700000,
   "median_psf_rm":553,
   "median_size_sqft":1270
@@ -165,9 +165,9 @@
   "state":"W.P. Kuala Lumpur",
   "district":"Kuala Lumpur",
   "tenure":"Leasehold",
-  "transactions":5755,
+  "transactions":5762,
   "median_price_rm":470000,
-  "median_psf_rm":435,
+  "median_psf_rm":434,
   "median_size_sqft":1066
  }
 ]

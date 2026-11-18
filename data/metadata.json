@@ -11,10 +11,14 @@
   },
   "downloaded": "2026-11",
   "generated": "2026-11-18",
+  "revision": 2,
   "transactions_total": 40492,
-  "transactions_used_in_medians": 40349,
-  "outliers_excluded": 143,
-  "outlier_rule": "psf_rm < 50, or in schemes with 5+ sales, psf below 0.4x or above 2.5x the scheme median psf",
+  "transactions_used_in_medians": 40373,
+  "outliers_excluded": 119,
+  "outlier_rule": "step 1: psf_rm < 50; step 2: in schemes with 5+ sales left after step 1, psf below 0.4x or above 2.5x that scheme median psf (computed after step 1)",
+  "scheme_splits": {
+    "THE ORION": "split by psf at RM1,000 into THE ORION (JALAN TUN RAZAK) and THE ORION (NEWER HIGH-RISE, 2024 TRANSFERS)"
+  },
   "sqm_to_sqft": 10.7639,
   "note": "2025-2026 incomplete: sales appear only after stamping. Area is NAPIC parcel area.",
   "files": {
@@ -25,11 +29,11 @@
     "data/summary/by_district_year": 58,
     "data/summary/by_mukim": 108,
     "data/summary/by_mukim_year": 542,
-    "data/summary/by_scheme": 2147,
+    "data/summary/by_scheme": 2149,
     "data/summary_2024_2026/by_state": 2,
     "data/summary_2024_2026/by_district": 10,
     "data/summary_2024_2026/by_district_tenure": 19,
     "data/summary_2024_2026/by_mukim": 97,
-    "data/summary_2024_2026/by_scheme": 1716
+    "data/summary_2024_2026/by_scheme": 1717
   }
 }

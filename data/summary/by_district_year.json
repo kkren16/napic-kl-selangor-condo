@@ -471,7 +471,7 @@
   "state":"W.P. Kuala Lumpur",
   "district":"Kuala Lumpur",
   "year":2021,
-  "transactions":1858,
+  "transactions":1861,
   "median_price_rm":550000,
   "median_psf_rm":512,
   "median_size_sqft":1130
@@ -480,25 +480,25 @@
   "state":"W.P. Kuala Lumpur",
   "district":"Kuala Lumpur",
   "year":2022,
-  "transactions":4324,
+  "transactions":4325,
   "median_price_rm":550000,
-  "median_psf_rm":483,
+  "median_psf_rm":484,
   "median_size_sqft":1184
  },
  {
   "state":"W.P. Kuala Lumpur",
   "district":"Kuala Lumpur",
   "year":2023,
-  "transactions":4105,
+  "transactions":4117,
   "median_price_rm":565000,
-  "median_psf_rm":495,
+  "median_psf_rm":494,
   "median_size_sqft":1195
  },
  {
   "state":"W.P. Kuala Lumpur",
   "district":"Kuala Lumpur",
   "year":2024,
-  "transactions":3158,
+  "transactions":3163,
   "median_price_rm":560000,
   "median_psf_rm":487,
   "median_size_sqft":1195
@@ -516,9 +516,9 @@
   "state":"W.P. Kuala Lumpur",
   "district":"Kuala Lumpur",
   "year":2026,
-  "transactions":909,
-  "median_price_rm":578000,
-  "median_psf_rm":493,
+  "transactions":912,
+  "median_price_rm":582500,
+  "median_psf_rm":491,
   "median_size_sqft":1206
  }
 ]

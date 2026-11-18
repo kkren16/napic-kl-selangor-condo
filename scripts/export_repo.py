@@ -34,9 +34,9 @@ for folder,df in [('summary',c),('summary_2024_2026',c[c.year>=2024])]:
         files.append((f'data/{folder}/{name}',len(s)))
 meta={'source':'National Property Information Centre (NAPIC), JPPH — Open Transaction Data (napic.jpph.gov.my/en/open-sales-data)',
  'property_type':'Condominium/Apartment (resales only)','states':['W.P. Kuala Lumpur','Selangor'],
- 'coverage':{'first_month':t.month.min(),'last_month':t.month.max()},'downloaded':'2026-11','generated':'2026-11-18',
+ 'coverage':{'first_month':t.month.min(),'last_month':t.month.max()},'downloaded':'2026-11','generated':'2026-11-18','revision':2,
  'transactions_total':int(len(t)),'transactions_used_in_medians':int(len(c)),'outliers_excluded':int(t.outlier.sum()),
- 'outlier_rule':'psf_rm < 50, or in schemes with 5+ sales, psf below 0.4x or above 2.5x the scheme median psf',
+ 'outlier_rule':'step 1: psf_rm < 50; step 2: in schemes with 5+ sales left after step 1, psf below 0.4x or above 2.5x that scheme median psf (computed after step 1)','scheme_splits':{'THE ORION':'split by psf at RM1,000 into THE ORION (JALAN TUN RAZAK) and THE ORION (NEWER HIGH-RISE, 2024 TRANSFERS)'},
  'sqm_to_sqft':10.7639,'note':'2025-2026 incomplete: sales appear only after stamping. Area is NAPIC parcel area.',
  'files':{f:n for f,n in files}}
 json.dump(meta,open(f'{R}/data/metadata.json','w'),indent=2)

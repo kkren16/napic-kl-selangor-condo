@@ -22,7 +22,7 @@ const BASE = "https://cdn.jsdelivr.net/gh/kkren16/napic-kl-selangor-condo@main/d
 
 const mukims = await fetch(`${BASE}/summary_2024_2026/by_mukim.json`).then(r => r.json());
 const setapak = mukims.find(m => m.mukim === "Mukim Setapak");
-console.log(setapak.median_psf_rm); // 389
+console.log(setapak.median_psf_rm); // 389 (2024–2026)
 ```
 
 Python:
@@ -63,8 +63,9 @@ Each summary comes as both `.csv` and `.json`. The JSON is an array of records.
 1. **Source:** NAPIC Open Transaction Data, property type Condominium/Apartment, downloaded separately for W.P. Kuala Lumpur and Selangor in November 2026.
 2. **Merged cells:** the NAPIC Excel export merges cells for repeated values (scheme, month, tenure, area, unit level). Each merged value was copied to every row it covers.
 3. **Size and PSF:** NAPIC gives parcel area in square metres. This was converted at 1 sq m = 10.7639 sq ft. PSF = price ÷ parcel area in sq ft.
-4. **Outliers:** 143 sales (0.35%) are left out of all medians but kept in `transactions.csv`. A sale counts as an outlier if its PSF is under RM50, or if it is in a scheme with 5 or more sales and its PSF is below 0.4× or above 2.5× that scheme's median. Most are bulk or block sales, likely related-party transfers, or obvious typos.
-5. **Medians:** each median is the middle value of the sales in its group. Check the `transactions` column: groups with fewer than about 10 sales are unreliable.
+4. **Scheme splits:** NAPIC records two developments as "THE ORION" (KL Town Centre). They are split by PSF at RM1,000 into `THE ORION (JALAN TUN RAZAK)`, the 2006 condo at about RM430–600 psf, and `THE ORION (NEWER HIGH-RISE, 2024 TRANSFERS)`, at about RM1,800–3,900 psf. Other scheme names may also cover more than one development, so check sizes and PSF before relying on a single scheme.
+5. **Outliers:** 119 sales (0.29%) are left out of all medians but kept in `transactions.csv`. Step 1 marks any sale under RM50 psf (bulk or nominal transfers). Step 2 works out each scheme's median from the sales left after step 1, then marks sales below 0.4× or above 2.5× that median, in schemes with 5 or more such sales. Most outliers are bulk or block sales, likely related-party transfers, or obvious typos.
+6. **Medians:** each median is the middle value of the sales in its group. Check the `transactions` column: groups with fewer than about 10 sales are unreliable.
 
 The scripts in `scripts/` reproduce the outputs from the raw NAPIC downloads.
 

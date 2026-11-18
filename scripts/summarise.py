@@ -1,9 +1,13 @@
 import pandas as pd, numpy as np
 d=pd.read_pickle('work/all.pkl')
-g=d.groupby(['state','district','mukim','scheme'])
-d['sch_n']=g.psf.transform('size'); d['sch_med']=g.psf.transform('median')
+# Pass 1: absolute junk (bulk/nominal transfers). Pass 2: scheme medians from what is left,
+# so a block of nominal sales can't drag a scheme's median down and flag its genuine sales.
+junk=d.psf<50
+k=['state','district','mukim','scheme']
+ref=d[~junk].groupby(k).psf.agg(sch_n='size',sch_med='median').reset_index()
+d=d.drop(columns=['sch_n','sch_med'],errors='ignore').merge(ref,on=k,how='left')
 r=d.psf/d.sch_med
-d['outlier']=(d.psf<50)|((d.sch_n>=5)&((r<0.4)|(r>2.5)))
+d['outlier']=junk|((d.sch_n>=5)&((r<0.4)|(r>2.5)))
 c=d[~d.outlier].copy()
 def agg(x):
     return pd.Series({'Transactions':len(x),'Median price (RM)':x.price_rm.median(),

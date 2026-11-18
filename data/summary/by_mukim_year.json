@@ -4944,19 +4944,19 @@
   "district":"Kuala Lumpur",
   "mukim":"Kuala Lumpur Town Centre",
   "year":2021,
-  "transactions":169,
-  "median_price_rm":555000,
-  "median_psf_rm":461,
-  "median_size_sqft":1163
+  "transactions":172,
+  "median_price_rm":552500,
+  "median_psf_rm":460,
+  "median_size_sqft":1178
  },
  {
   "state":"W.P. Kuala Lumpur",
   "district":"Kuala Lumpur",
   "mukim":"Kuala Lumpur Town Centre",
   "year":2022,
-  "transactions":518,
-  "median_price_rm":722500,
-  "median_psf_rm":542,
+  "transactions":519,
+  "median_price_rm":725000,
+  "median_psf_rm":543,
   "median_size_sqft":1238
  },
  {
@@ -4964,20 +4964,20 @@
   "district":"Kuala Lumpur",
   "mukim":"Kuala Lumpur Town Centre",
   "year":2023,
-  "transactions":583,
-  "median_price_rm":700000,
+  "transactions":588,
+  "median_price_rm":712500,
   "median_psf_rm":539,
-  "median_size_sqft":1195
+  "median_size_sqft":1206
  },
  {
   "state":"W.P. Kuala Lumpur",
   "district":"Kuala Lumpur",
   "mukim":"Kuala Lumpur Town Centre",
   "year":2024,
-  "transactions":577,
-  "median_price_rm":940000,
-  "median_psf_rm":591,
-  "median_size_sqft":1249
+  "transactions":582,
+  "median_price_rm":927000,
+  "median_psf_rm":590,
+  "median_size_sqft":1259
  },
  {
   "state":"W.P. Kuala Lumpur",
@@ -4994,10 +4994,10 @@
   "district":"Kuala Lumpur",
   "mukim":"Kuala Lumpur Town Centre",
   "year":2026,
-  "transactions":181,
-  "median_price_rm":850000,
-  "median_psf_rm":594,
-  "median_size_sqft":1238
+  "transactions":184,
+  "median_price_rm":797500,
+  "median_psf_rm":581,
+  "median_size_sqft":1244
  },
  {
   "state":"W.P. Kuala Lumpur",
@@ -5324,10 +5324,10 @@
   "district":"Kuala Lumpur",
   "mukim":"Mukim Setapak",
   "year":2023,
-  "transactions":586,
+  "transactions":593,
   "median_price_rm":460000,
-  "median_psf_rm":393,
-  "median_size_sqft":1195
+  "median_psf_rm":390,
+  "median_size_sqft":1184
  },
  {
   "state":"W.P. Kuala Lumpur",

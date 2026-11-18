@@ -20,6 +20,11 @@ d['price_rm']=pd.to_numeric(d.price.str.replace(r'[RM,\s]','',regex=True),errors
 d['area_sqm']=pd.to_numeric(d.area.str.replace(',',''),errors='coerce')
 d['area_sqft']=(d.area_sqm*10.7639).round(0)
 d['psf']=d.price_rm/(d.area_sqm*10.7639)
+# NAPIC records two developments under "THE ORION" (KL Town Centre): the 2006 condo on Jalan Tun Razak
+# (~RM430-600 psf) and a much newer high-rise whose units first transferred in 2024 (~RM1,800-3,900 psf).
+orion=d.scheme.eq('THE ORION')
+d.loc[orion&(d.psf<1000),'scheme']='THE ORION (JALAN TUN RAZAK)'
+d.loc[orion&(d.psf>=1000),'scheme']='THE ORION (NEWER HIGH-RISE, 2024 TRANSFERS)'
 d['date']=pd.to_datetime(d.month,format='%B %Y',errors='coerce')
 d['year']=d.date.dt.year
 d['level']=d.level.str.strip()

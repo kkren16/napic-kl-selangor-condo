@@ -19438,7 +19438,20 @@
   "state":"W.P. Kuala Lumpur",
   "district":"Kuala Lumpur",
   "mukim":"Kuala Lumpur Town Centre",
-  "scheme":"THE ORION",
+  "scheme":"THE ORION (JALAN TUN RAZAK)",
+  "transactions":17,
+  "median_price_rm":630000,
+  "median_psf_rm":480,
+  "median_size_sqft":1302,
+  "tenure":"Freehold",
+  "first_sale":"2021-03",
+  "last_sale":"2026-08"
+ },
+ {
+  "state":"W.P. Kuala Lumpur",
+  "district":"Kuala Lumpur",
+  "mukim":"Kuala Lumpur Town Centre",
+  "scheme":"THE ORION (NEWER HIGH-RISE, 2024 TRANSFERS)",
   "transactions":52,
   "median_price_rm":1588500,
   "median_psf_rm":2252,
@@ -27311,6 +27324,19 @@
   "tenure":"Leasehold",
   "first_sale":"2022-01",
   "last_sale":"2024-06"
+ },
+ {
+  "state":"W.P. Kuala Lumpur",
+  "district":"Kuala Lumpur",
+  "mukim":"Mukim Setapak",
+  "scheme":"RESIDENSI VISTA WIRAJAYA",
+  "transactions":7,
+  "median_price_rm":300000,
+  "median_psf_rm":303,
+  "median_size_sqft":990,
+  "tenure":"Leasehold",
+  "first_sale":"2023-06",
+  "last_sale":"2023-06"
  },
  {
   "state":"W.P. Kuala Lumpur",

@@ -903,10 +903,10 @@
   "state":"W.P. Kuala Lumpur",
   "district":"Kuala Lumpur",
   "mukim":"Kuala Lumpur Town Centre",
-  "transactions":2313,
-  "median_price_rm":800000,
-  "median_psf_rm":565,
-  "median_size_sqft":1249
+  "transactions":2330,
+  "median_price_rm":790000,
+  "median_psf_rm":563,
+  "median_size_sqft":1259
  },
  {
   "state":"W.P. Kuala Lumpur",
@@ -957,9 +957,9 @@
   "state":"W.P. Kuala Lumpur",
   "district":"Kuala Lumpur",
   "mukim":"Mukim Setapak",
-  "transactions":2600,
-  "median_price_rm":452000,
-  "median_psf_rm":398,
+  "transactions":2607,
+  "median_price_rm":451000,
+  "median_psf_rm":397,
   "median_size_sqft":1152
  },
  {
