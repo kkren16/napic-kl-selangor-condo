@@ -1,0 +1,20 @@
+state,district,tenure,transactions,median_price_rm,median_psf_rm,median_size_sqft
+Selangor,Gombak,Freehold,985,330000,347,936
+Selangor,Gombak,Leasehold,1731,290000,312,904
+Selangor,Hulu Langat,Freehold,4428,348000,334,1012
+Selangor,Hulu Langat,Leasehold,1796,330000,341,947
+Selangor,Hulu Selangor,Freehold,122,134500,168,807
+Selangor,Hulu Selangor,Leasehold,148,143000,157,775
+Selangor,Klang,Freehold,2081,277000,301,904
+Selangor,Klang,Leasehold,232,227000,244,912
+Selangor,Kuala Langat,Freehold,8,217500,176,968
+Selangor,Kuala Langat,Leasehold,221,457000,474,893
+Selangor,Kuala Selangor,Freehold,1,70000,100,700
+Selangor,Kuala Selangor,Leasehold,470,200000,250,760
+Selangor,Petaling,Freehold,5285,380000,400,958
+Selangor,Petaling,Leasehold,5703,360000,373,926
+Selangor,Sabak Bernam,Leasehold,31,380000,324,1123
+Selangor,Sepang,Freehold,933,450000,384,1087
+Selangor,Sepang,Leasehold,295,250000,259,969
+W.P. Kuala Lumpur,Kuala Lumpur,Freehold,10124,700000,553,1270
+W.P. Kuala Lumpur,Kuala Lumpur,Leasehold,5755,470000,435,1066

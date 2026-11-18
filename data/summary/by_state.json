@@ -1,0 +1,16 @@
+[
+ {
+  "state":"Selangor",
+  "transactions":24470,
+  "median_price_rm":340000,
+  "median_psf_rm":353,
+  "median_size_sqft":947
+ },
+ {
+  "state":"W.P. Kuala Lumpur",
+  "transactions":15879,
+  "median_price_rm":570000,
+  "median_psf_rm":495,
+  "median_size_sqft":1195
+ }
+]

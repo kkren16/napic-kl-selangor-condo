@@ -1,0 +1,59 @@
+state,district,year,transactions,median_price_rm,median_psf_rm,median_size_sqft
+Selangor,Gombak,2021,418,280000,308,872
+Selangor,Gombak,2022,757,300000,321,904
+Selangor,Gombak,2023,674,293000,313,914
+Selangor,Gombak,2024,516,317500,328,936
+Selangor,Gombak,2025,198,350000,357,942
+Selangor,Gombak,2026,153,350000,375,947
+Selangor,Hulu Langat,2021,872,322000,330,1001
+Selangor,Hulu Langat,2022,1794,340000,335,1012
+Selangor,Hulu Langat,2023,1601,338000,335,990
+Selangor,Hulu Langat,2024,1295,350000,347,1000
+Selangor,Hulu Langat,2025,391,350000,341,990
+Selangor,Hulu Langat,2026,271,330000,332,980
+Selangor,Hulu Selangor,2021,28,122500,143,807
+Selangor,Hulu Selangor,2022,88,127500,156,802
+Selangor,Hulu Selangor,2023,60,140000,157,807
+Selangor,Hulu Selangor,2024,65,142000,181,797
+Selangor,Hulu Selangor,2025,15,150000,181,797
+Selangor,Hulu Selangor,2026,14,168000,220,807
+Selangor,Klang,2021,372,270000,276,926
+Selangor,Klang,2022,654,255000,276,904
+Selangor,Klang,2023,638,270000,291,904
+Selangor,Klang,2024,391,300000,322,876
+Selangor,Klang,2025,157,320000,356,893
+Selangor,Klang,2026,101,314000,356,872
+Selangor,Kuala Langat,2021,87,616000,781,936
+Selangor,Kuala Langat,2022,54,451000,480,929
+Selangor,Kuala Langat,2023,47,210000,268,869
+Selangor,Kuala Langat,2024,35,320000,370,872
+Selangor,Kuala Langat,2025,6,227500,233,1026
+Selangor,Kuala Selangor,2021,86,186000,257,753
+Selangor,Kuala Selangor,2022,142,191000,252,760
+Selangor,Kuala Selangor,2023,134,205000,245,764
+Selangor,Kuala Selangor,2024,82,205000,236,764
+Selangor,Kuala Selangor,2025,19,210000,275,764
+Selangor,Kuala Selangor,2026,8,192500,276,721
+Selangor,Petaling,2021,1363,330000,364,893
+Selangor,Petaling,2022,2919,350000,378,926
+Selangor,Petaling,2023,3070,370000,391,947
+Selangor,Petaling,2024,2281,380000,400,958
+Selangor,Petaling,2025,862,400000,405,969
+Selangor,Petaling,2026,493,400000,397,990
+Selangor,Sabak Bernam,2021,3,400000,324,1236
+Selangor,Sabak Bernam,2022,10,390000,324,1220
+Selangor,Sabak Bernam,2023,10,355000,339,1008
+Selangor,Sabak Bernam,2024,7,358000,319,1123
+Selangor,Sabak Bernam,2025,1,208000,236,883
+Selangor,Sepang,2021,196,362500,341,1052
+Selangor,Sepang,2022,274,350000,312,1068
+Selangor,Sepang,2023,302,380000,333,1066
+Selangor,Sepang,2024,262,519000,437,1068
+Selangor,Sepang,2025,104,722000,706,1033
+Selangor,Sepang,2026,90,735000,464,1216
+W.P. Kuala Lumpur,Kuala Lumpur,2021,1858,550000,512,1130
+W.P. Kuala Lumpur,Kuala Lumpur,2022,4324,550000,483,1184
+W.P. Kuala Lumpur,Kuala Lumpur,2023,4105,565000,495,1195
+W.P. Kuala Lumpur,Kuala Lumpur,2024,3158,560000,487,1195
+W.P. Kuala Lumpur,Kuala Lumpur,2025,1525,700000,539,1292
+W.P. Kuala Lumpur,Kuala Lumpur,2026,909,578000,493,1206

@@ -1,0 +1,13 @@
+state,year,transactions,median_price_rm,median_psf_rm,median_size_sqft
+Selangor,2021,3425,310000,335,936
+Selangor,2022,6692,330000,344,947
+Selangor,2023,6536,340000,352,936
+Selangor,2024,4934,355000,367,958
+Selangor,2025,1753,370000,380,958
+Selangor,2026,1130,370000,372,964
+W.P. Kuala Lumpur,2021,1858,550000,512,1130
+W.P. Kuala Lumpur,2022,4324,550000,483,1184
+W.P. Kuala Lumpur,2023,4105,565000,495,1195
+W.P. Kuala Lumpur,2024,3158,560000,487,1195
+W.P. Kuala Lumpur,2025,1525,700000,539,1292
+W.P. Kuala Lumpur,2026,909,578000,493,1206

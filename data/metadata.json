@@ -1,0 +1,35 @@
+{
+  "source": "National Property Information Centre (NAPIC), JPPH \u2014 Open Transaction Data (napic.jpph.gov.my/en/open-sales-data)",
+  "property_type": "Condominium/Apartment (resales only)",
+  "states": [
+    "W.P. Kuala Lumpur",
+    "Selangor"
+  ],
+  "coverage": {
+    "first_month": "2021-01",
+    "last_month": "2026-09"
+  },
+  "downloaded": "2026-11",
+  "generated": "2026-11-18",
+  "transactions_total": 40492,
+  "transactions_used_in_medians": 40349,
+  "outliers_excluded": 143,
+  "outlier_rule": "psf_rm < 50, or in schemes with 5+ sales, psf below 0.4x or above 2.5x the scheme median psf",
+  "sqm_to_sqft": 10.7639,
+  "note": "2025-2026 incomplete: sales appear only after stamping. Area is NAPIC parcel area.",
+  "files": {
+    "data/summary/by_state": 2,
+    "data/summary/by_state_year": 12,
+    "data/summary/by_district": 10,
+    "data/summary/by_district_tenure": 19,
+    "data/summary/by_district_year": 58,
+    "data/summary/by_mukim": 108,
+    "data/summary/by_mukim_year": 542,
+    "data/summary/by_scheme": 2147,
+    "data/summary_2024_2026/by_state": 2,
+    "data/summary_2024_2026/by_district": 10,
+    "data/summary_2024_2026/by_district_tenure": 19,
+    "data/summary_2024_2026/by_mukim": 97,
+    "data/summary_2024_2026/by_scheme": 1716
+  }
+}

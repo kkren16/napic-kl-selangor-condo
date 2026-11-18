@@ -1,0 +1,82 @@
+[
+ {
+  "state":"Selangor",
+  "district":"Gombak",
+  "transactions":867,
+  "median_price_rm":330000,
+  "median_psf_rm":341,
+  "median_size_sqft":936
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Langat",
+  "transactions":1957,
+  "median_price_rm":350000,
+  "median_psf_rm":344,
+  "median_size_sqft":990
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Selangor",
+  "transactions":94,
+  "median_price_rm":150000,
+  "median_psf_rm":184,
+  "median_size_sqft":797
+ },
+ {
+  "state":"Selangor",
+  "district":"Klang",
+  "transactions":649,
+  "median_price_rm":300000,
+  "median_psf_rm":335,
+  "median_size_sqft":880
+ },
+ {
+  "state":"Selangor",
+  "district":"Kuala Langat",
+  "transactions":41,
+  "median_price_rm":260000,
+  "median_psf_rm":337,
+  "median_size_sqft":893
+ },
+ {
+  "state":"Selangor",
+  "district":"Kuala Selangor",
+  "transactions":109,
+  "median_price_rm":205000,
+  "median_psf_rm":249,
+  "median_size_sqft":764
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "transactions":3636,
+  "median_price_rm":390000,
+  "median_psf_rm":400,
+  "median_size_sqft":958
+ },
+ {
+  "state":"Selangor",
+  "district":"Sabak Bernam",
+  "transactions":8,
+  "median_price_rm":344000,
+  "median_psf_rm":312,
+  "median_size_sqft":1102
+ },
+ {
+  "state":"Selangor",
+  "district":"Sepang",
+  "transactions":456,
+  "median_price_rm":631500,
+  "median_psf_rm":474,
+  "median_size_sqft":1066
+ },
+ {
+  "state":"W.P. Kuala Lumpur",
+  "district":"Kuala Lumpur",
+  "transactions":5592,
+  "median_price_rm":600000,
+  "median_psf_rm":498,
+  "median_size_sqft":1216
+ }
+]

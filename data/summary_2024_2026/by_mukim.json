@@ -1,0 +1,875 @@
+[
+ {
+  "state":"Selangor",
+  "district":"Gombak",
+  "mukim":"Bandar Hulu Kelang",
+  "transactions":247,
+  "median_price_rm":380000,
+  "median_psf_rm":368,
+  "median_size_sqft":1163
+ },
+ {
+  "state":"Selangor",
+  "district":"Gombak",
+  "mukim":"Bandar Kepong",
+  "transactions":238,
+  "median_price_rm":350000,
+  "median_psf_rm":379,
+  "median_size_sqft":904
+ },
+ {
+  "state":"Selangor",
+  "district":"Gombak",
+  "mukim":"Bandar Kuang",
+  "transactions":1,
+  "median_price_rm":67000,
+  "median_psf_rm":83,
+  "median_size_sqft":807
+ },
+ {
+  "state":"Selangor",
+  "district":"Gombak",
+  "mukim":"Bandar Kundang",
+  "transactions":42,
+  "median_price_rm":186500,
+  "median_psf_rm":232,
+  "median_size_sqft":797
+ },
+ {
+  "state":"Selangor",
+  "district":"Gombak",
+  "mukim":"Bandar Rawang",
+  "transactions":7,
+  "median_price_rm":210000,
+  "median_psf_rm":260,
+  "median_size_sqft":807
+ },
+ {
+  "state":"Selangor",
+  "district":"Gombak",
+  "mukim":"Bandar Selayang",
+  "transactions":159,
+  "median_price_rm":310000,
+  "median_psf_rm":321,
+  "median_size_sqft":915
+ },
+ {
+  "state":"Selangor",
+  "district":"Gombak",
+  "mukim":"Bandar Sungai Buloh",
+  "transactions":6,
+  "median_price_rm":342500,
+  "median_psf_rm":363,
+  "median_size_sqft":1012
+ },
+ {
+  "state":"Selangor",
+  "district":"Gombak",
+  "mukim":"Batu",
+  "transactions":25,
+  "median_price_rm":310000,
+  "median_psf_rm":282,
+  "median_size_sqft":990
+ },
+ {
+  "state":"Selangor",
+  "district":"Gombak",
+  "mukim":"Hulu Klang",
+  "transactions":68,
+  "median_price_rm":375000,
+  "median_psf_rm":372,
+  "median_size_sqft":990
+ },
+ {
+  "state":"Selangor",
+  "district":"Gombak",
+  "mukim":"Pekan Kuang",
+  "transactions":4,
+  "median_price_rm":521000,
+  "median_psf_rm":400,
+  "median_size_sqft":1302
+ },
+ {
+  "state":"Selangor",
+  "district":"Gombak",
+  "mukim":"Pekan Pengkalan Kundang",
+  "transactions":16,
+  "median_price_rm":247500,
+  "median_psf_rm":291,
+  "median_size_sqft":850
+ },
+ {
+  "state":"Selangor",
+  "district":"Gombak",
+  "mukim":"Pekan Templer",
+  "transactions":5,
+  "median_price_rm":390000,
+  "median_psf_rm":270,
+  "median_size_sqft":1528
+ },
+ {
+  "state":"Selangor",
+  "district":"Gombak",
+  "mukim":"Rawang",
+  "transactions":41,
+  "median_price_rm":220000,
+  "median_psf_rm":234,
+  "median_size_sqft":990
+ },
+ {
+  "state":"Selangor",
+  "district":"Gombak",
+  "mukim":"Setapak",
+  "transactions":8,
+  "median_price_rm":373500,
+  "median_psf_rm":346,
+  "median_size_sqft":1001
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Langat",
+  "mukim":"Ampang",
+  "transactions":77,
+  "median_price_rm":298000,
+  "median_psf_rm":347,
+  "median_size_sqft":839
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Langat",
+  "mukim":"Bandar Ampang",
+  "transactions":344,
+  "median_price_rm":350000,
+  "median_psf_rm":347,
+  "median_size_sqft":969
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Langat",
+  "mukim":"Bandar Baru Bangi",
+  "transactions":162,
+  "median_price_rm":340000,
+  "median_psf_rm":320,
+  "median_size_sqft":990
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Langat",
+  "mukim":"Bandar Batu 18 Semenyih",
+  "transactions":9,
+  "median_price_rm":289000,
+  "median_psf_rm":283,
+  "median_size_sqft":1023
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Langat",
+  "mukim":"Bandar Cheras",
+  "transactions":160,
+  "median_price_rm":550000,
+  "median_psf_rm":479,
+  "median_size_sqft":1012
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Langat",
+  "mukim":"Bandar Kajang",
+  "transactions":99,
+  "median_price_rm":270000,
+  "median_psf_rm":294,
+  "median_size_sqft":947
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Langat",
+  "mukim":"Beranang",
+  "transactions":87,
+  "median_price_rm":330000,
+  "median_psf_rm":398,
+  "median_size_sqft":850
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Langat",
+  "mukim":"Cheras",
+  "transactions":296,
+  "median_price_rm":450000,
+  "median_psf_rm":403,
+  "median_size_sqft":1000
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Langat",
+  "mukim":"Hulu Langat",
+  "transactions":110,
+  "median_price_rm":304000,
+  "median_psf_rm":218,
+  "median_size_sqft":1518
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Langat",
+  "mukim":"Kajang",
+  "transactions":192,
+  "median_price_rm":343000,
+  "median_psf_rm":317,
+  "median_size_sqft":1050
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Langat",
+  "mukim":"Pekan Bangi Lama",
+  "transactions":22,
+  "median_price_rm":267500,
+  "median_psf_rm":316,
+  "median_size_sqft":786
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Langat",
+  "mukim":"Pekan Cheras",
+  "transactions":127,
+  "median_price_rm":420000,
+  "median_psf_rm":370,
+  "median_size_sqft":958
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Langat",
+  "mukim":"Pekan Kajang",
+  "transactions":96,
+  "median_price_rm":315000,
+  "median_psf_rm":340,
+  "median_size_sqft":985
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Langat",
+  "mukim":"Pekan Kg Sungai Tangkas",
+  "transactions":46,
+  "median_price_rm":334500,
+  "median_psf_rm":331,
+  "median_size_sqft":990
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Langat",
+  "mukim":"Pekan Semenyih",
+  "transactions":27,
+  "median_price_rm":296000,
+  "median_psf_rm":302,
+  "median_size_sqft":980
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Langat",
+  "mukim":"Pekan Sungai Makau",
+  "transactions":2,
+  "median_price_rm":217000,
+  "median_psf_rm":214,
+  "median_size_sqft":1017
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Langat",
+  "mukim":"Semenyih",
+  "transactions":101,
+  "median_price_rm":280000,
+  "median_psf_rm":323,
+  "median_size_sqft":850
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Selangor",
+  "mukim":"Bandar Hulu Bernam",
+  "transactions":17,
+  "median_price_rm":145000,
+  "median_psf_rm":177,
+  "median_size_sqft":775
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Selangor",
+  "mukim":"Bandar Serendah",
+  "transactions":46,
+  "median_price_rm":140000,
+  "median_psf_rm":173,
+  "median_size_sqft":807
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Selangor",
+  "mukim":"Bandar Ulu Bernam",
+  "transactions":9,
+  "median_price_rm":165000,
+  "median_psf_rm":200,
+  "median_size_sqft":775
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Selangor",
+  "mukim":"Batang Kali",
+  "transactions":5,
+  "median_price_rm":750000,
+  "median_psf_rm":619,
+  "median_size_sqft":1313
+ },
+ {
+  "state":"Selangor",
+  "district":"Hulu Selangor",
+  "mukim":"Serendah",
+  "transactions":17,
+  "median_price_rm":150000,
+  "median_psf_rm":200,
+  "median_size_sqft":750
+ },
+ {
+  "state":"Selangor",
+  "district":"Klang",
+  "mukim":"Bandar Kelang",
+  "transactions":136,
+  "median_price_rm":310000,
+  "median_psf_rm":310,
+  "median_size_sqft":969
+ },
+ {
+  "state":"Selangor",
+  "district":"Klang",
+  "mukim":"Bandar Klang",
+  "transactions":5,
+  "median_price_rm":330000,
+  "median_psf_rm":313,
+  "median_size_sqft":969
+ },
+ {
+  "state":"Selangor",
+  "district":"Klang",
+  "mukim":"Bandar Kota Kemuning",
+  "transactions":1,
+  "median_price_rm":295000,
+  "median_psf_rm":326,
+  "median_size_sqft":904
+ },
+ {
+  "state":"Selangor",
+  "district":"Klang",
+  "mukim":"Bandar Shah Alam",
+  "transactions":29,
+  "median_price_rm":180000,
+  "median_psf_rm":203,
+  "median_size_sqft":850
+ },
+ {
+  "state":"Selangor",
+  "district":"Klang",
+  "mukim":"Bandar Sultan Sulaiman",
+  "transactions":2,
+  "median_price_rm":133000,
+  "median_psf_rm":174,
+  "median_size_sqft":766
+ },
+ {
+  "state":"Selangor",
+  "district":"Klang",
+  "mukim":"Kapar",
+  "transactions":83,
+  "median_price_rm":300000,
+  "median_psf_rm":305,
+  "median_size_sqft":988
+ },
+ {
+  "state":"Selangor",
+  "district":"Klang",
+  "mukim":"Kelang",
+  "transactions":332,
+  "median_price_rm":307500,
+  "median_psf_rm":362,
+  "median_size_sqft":840
+ },
+ {
+  "state":"Selangor",
+  "district":"Klang",
+  "mukim":"Klang",
+  "transactions":31,
+  "median_price_rm":350000,
+  "median_psf_rm":393,
+  "median_size_sqft":775
+ },
+ {
+  "state":"Selangor",
+  "district":"Klang",
+  "mukim":"Pekan Pendamaran",
+  "transactions":17,
+  "median_price_rm":300000,
+  "median_psf_rm":380,
+  "median_size_sqft":850
+ },
+ {
+  "state":"Selangor",
+  "district":"Klang",
+  "mukim":"Pekan Port Swettenham",
+  "transactions":13,
+  "median_price_rm":150000,
+  "median_psf_rm":184,
+  "median_size_sqft":872
+ },
+ {
+  "state":"Selangor",
+  "district":"Kuala Langat",
+  "mukim":"Pekan Sungai Manggis",
+  "transactions":4,
+  "median_price_rm":217500,
+  "median_psf_rm":197,
+  "median_size_sqft":968
+ },
+ {
+  "state":"Selangor",
+  "district":"Kuala Langat",
+  "mukim":"Tanjung 12",
+  "transactions":37,
+  "median_price_rm":348000,
+  "median_psf_rm":399,
+  "median_size_sqft":872
+ },
+ {
+  "state":"Selangor",
+  "district":"Kuala Selangor",
+  "mukim":"Bandar Kuala Selangor",
+  "transactions":2,
+  "median_price_rm":115000,
+  "median_psf_rm":139,
+  "median_size_sqft":802
+ },
+ {
+  "state":"Selangor",
+  "district":"Kuala Selangor",
+  "mukim":"Ijok",
+  "transactions":102,
+  "median_price_rm":205000,
+  "median_psf_rm":249,
+  "median_size_sqft":764
+ },
+ {
+  "state":"Selangor",
+  "district":"Kuala Selangor",
+  "mukim":"Jeram",
+  "transactions":4,
+  "median_price_rm":212500,
+  "median_psf_rm":223,
+  "median_size_sqft":1006
+ },
+ {
+  "state":"Selangor",
+  "district":"Kuala Selangor",
+  "mukim":"Pekan Batang Berjuntai",
+  "transactions":1,
+  "median_price_rm":300000,
+  "median_psf_rm":420,
+  "median_size_sqft":715
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Bandar Petaling Jaya",
+  "transactions":481,
+  "median_price_rm":550000,
+  "median_psf_rm":478,
+  "median_size_sqft":1238
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Bandar Shah Alam",
+  "transactions":97,
+  "median_price_rm":350000,
+  "median_psf_rm":345,
+  "median_size_sqft":969
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Bandar Subang Jaya",
+  "transactions":37,
+  "median_price_rm":425000,
+  "median_psf_rm":470,
+  "median_size_sqft":861
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Bdr Damansara",
+  "transactions":85,
+  "median_price_rm":530000,
+  "median_psf_rm":434,
+  "median_size_sqft":1227
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Bdr Glenmarie",
+  "transactions":8,
+  "median_price_rm":450000,
+  "median_psf_rm":403,
+  "median_size_sqft":1001
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Bdr Petaling Jaya Selatan",
+  "transactions":80,
+  "median_price_rm":345000,
+  "median_psf_rm":386,
+  "median_size_sqft":987
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Bdr Saujana",
+  "transactions":25,
+  "median_price_rm":900000,
+  "median_psf_rm":535,
+  "median_size_sqft":1744
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Bdr Sri Damansara",
+  "transactions":143,
+  "median_price_rm":390000,
+  "median_psf_rm":433,
+  "median_size_sqft":840
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Bdr Sunway",
+  "transactions":181,
+  "median_price_rm":560000,
+  "median_psf_rm":422,
+  "median_size_sqft":1249
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Bukit Raja",
+  "transactions":226,
+  "median_price_rm":320000,
+  "median_psf_rm":375,
+  "median_size_sqft":840
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Damansara",
+  "transactions":233,
+  "median_price_rm":393000,
+  "median_psf_rm":393,
+  "median_size_sqft":980
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Pekan Baru Hicom",
+  "transactions":5,
+  "median_price_rm":190000,
+  "median_psf_rm":274,
+  "median_size_sqft":818
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Pekan Baru Sg Besi",
+  "transactions":25,
+  "median_price_rm":275000,
+  "median_psf_rm":302,
+  "median_size_sqft":861
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Pekan Baru Sg Buluh",
+  "transactions":168,
+  "median_price_rm":450000,
+  "median_psf_rm":446,
+  "median_size_sqft":996
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Pekan Baru Subang",
+  "transactions":16,
+  "median_price_rm":354000,
+  "median_psf_rm":359,
+  "median_size_sqft":1001
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Pekan Batu Tiga",
+  "transactions":13,
+  "median_price_rm":365000,
+  "median_psf_rm":349,
+  "median_size_sqft":1001
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Pekan Chempaka",
+  "transactions":21,
+  "median_price_rm":560000,
+  "median_psf_rm":451,
+  "median_size_sqft":1389
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Pekan Country Heights",
+  "transactions":13,
+  "median_price_rm":816000,
+  "median_psf_rm":565,
+  "median_size_sqft":1536
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Pekan Desa Puchong",
+  "transactions":10,
+  "median_price_rm":245000,
+  "median_psf_rm":260,
+  "median_size_sqft":840
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Pekan Hicom",
+  "transactions":23,
+  "median_price_rm":320000,
+  "median_psf_rm":370,
+  "median_size_sqft":904
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Pekan Kayu Ara",
+  "transactions":52,
+  "median_price_rm":480000,
+  "median_psf_rm":477,
+  "median_size_sqft":1001
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Pekan Kinrara",
+  "transactions":279,
+  "median_price_rm":360000,
+  "median_psf_rm":405,
+  "median_size_sqft":904
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Pekan Penaga",
+  "transactions":81,
+  "median_price_rm":320000,
+  "median_psf_rm":352,
+  "median_size_sqft":980
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Pekan Puchong Jaya",
+  "transactions":174,
+  "median_price_rm":395000,
+  "median_psf_rm":410,
+  "median_size_sqft":852
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Pekan Puchong Perdana",
+  "transactions":181,
+  "median_price_rm":365000,
+  "median_psf_rm":368,
+  "median_size_sqft":1033
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Pekan Serdang",
+  "transactions":66,
+  "median_price_rm":310000,
+  "median_psf_rm":312,
+  "median_size_sqft":915
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Pekan Sg Penchala",
+  "transactions":16,
+  "median_price_rm":692500,
+  "median_psf_rm":781,
+  "median_size_sqft":861
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Pekan Subang Jaya",
+  "transactions":215,
+  "median_price_rm":368000,
+  "median_psf_rm":387,
+  "median_size_sqft":990
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Petaling",
+  "transactions":323,
+  "median_price_rm":325000,
+  "median_psf_rm":347,
+  "median_size_sqft":904
+ },
+ {
+  "state":"Selangor",
+  "district":"Petaling",
+  "mukim":"Sungai Buluh",
+  "transactions":359,
+  "median_price_rm":380000,
+  "median_psf_rm":421,
+  "median_size_sqft":850
+ },
+ {
+  "state":"Selangor",
+  "district":"Sabak Bernam",
+  "mukim":"Pekan Sekinchan",
+  "transactions":8,
+  "median_price_rm":344000,
+  "median_psf_rm":312,
+  "median_size_sqft":1102
+ },
+ {
+  "state":"Selangor",
+  "district":"Sepang",
+  "mukim":"Bandar Cyberjaya",
+  "transactions":45,
+  "median_price_rm":470000,
+  "median_psf_rm":445,
+  "median_size_sqft":1012
+ },
+ {
+  "state":"Selangor",
+  "district":"Sepang",
+  "mukim":"Baru Baru Salak Tinggi",
+  "transactions":1,
+  "median_price_rm":404000,
+  "median_psf_rm":364,
+  "median_size_sqft":1109
+ },
+ {
+  "state":"Selangor",
+  "district":"Sepang",
+  "mukim":"Bdr Baru Bangi",
+  "transactions":11,
+  "median_price_rm":323000,
+  "median_psf_rm":294,
+  "median_size_sqft":1066
+ },
+ {
+  "state":"Selangor",
+  "district":"Sepang",
+  "mukim":"Dengkil",
+  "transactions":179,
+  "median_price_rm":300000,
+  "median_psf_rm":303,
+  "median_size_sqft":1055
+ },
+ {
+  "state":"Selangor",
+  "district":"Sepang",
+  "mukim":"Pekan Bukit Bisa",
+  "transactions":215,
+  "median_price_rm":790000,
+  "median_psf_rm":760,
+  "median_size_sqft":1227
+ },
+ {
+  "state":"Selangor",
+  "district":"Sepang",
+  "mukim":"Pekan Dengkil",
+  "transactions":5,
+  "median_price_rm":225000,
+  "median_psf_rm":256,
+  "median_size_sqft":775
+ },
+ {
+  "state":"W.P. Kuala Lumpur",
+  "district":"Kuala Lumpur",
+  "mukim":"Kuala Lumpur Town Centre",
+  "transactions":1043,
+  "median_price_rm":1000000,
+  "median_psf_rm":600,
+  "median_size_sqft":1313
+ },
+ {
+  "state":"W.P. Kuala Lumpur",
+  "district":"Kuala Lumpur",
+  "mukim":"Mukim Ampang",
+  "transactions":75,
+  "median_price_rm":430000,
+  "median_psf_rm":384,
+  "median_size_sqft":1109
+ },
+ {
+  "state":"W.P. Kuala Lumpur",
+  "district":"Kuala Lumpur",
+  "mukim":"Mukim Batu",
+  "transactions":1675,
+  "median_price_rm":988000,
+  "median_psf_rm":642,
+  "median_size_sqft":1389
+ },
+ {
+  "state":"W.P. Kuala Lumpur",
+  "district":"Kuala Lumpur",
+  "mukim":"Mukim Cheras",
+  "transactions":14,
+  "median_price_rm":522500,
+  "median_psf_rm":382,
+  "median_size_sqft":1400
+ },
+ {
+  "state":"W.P. Kuala Lumpur",
+  "district":"Kuala Lumpur",
+  "mukim":"Mukim Kuala Lumpur",
+  "transactions":1036,
+  "median_price_rm":500000,
+  "median_psf_rm":476,
+  "median_size_sqft":1130
+ },
+ {
+  "state":"W.P. Kuala Lumpur",
+  "district":"Kuala Lumpur",
+  "mukim":"Mukim Petaling",
+  "transactions":946,
+  "median_price_rm":470000,
+  "median_psf_rm":428,
+  "median_size_sqft":1087
+ },
+ {
+  "state":"W.P. Kuala Lumpur",
+  "district":"Kuala Lumpur",
+  "mukim":"Mukim Setapak",
+  "transactions":777,
+  "median_price_rm":455000,
+  "median_psf_rm":389,
+  "median_size_sqft":1195
+ },
+ {
+  "state":"W.P. Kuala Lumpur",
+  "district":"Kuala Lumpur",
+  "mukim":"Mukim Ulu Kelang",
+  "transactions":26,
+  "median_price_rm":425000,
+  "median_psf_rm":410,
+  "median_size_sqft":1052
+ }
+]
