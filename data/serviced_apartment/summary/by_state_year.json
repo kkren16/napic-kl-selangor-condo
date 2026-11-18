@@ -1,0 +1,34 @@
+[
+ {
+  "state":"Selangor",
+  "year":2025,
+  "transactions":500,
+  "median_price_rm":457500,
+  "median_psf_rm":552,
+  "median_size_sqft":923
+ },
+ {
+  "state":"Selangor",
+  "year":2026,
+  "transactions":364,
+  "median_price_rm":467500,
+  "median_psf_rm":541,
+  "median_size_sqft":958
+ },
+ {
+  "state":"W.P. Kuala Lumpur",
+  "year":2025,
+  "transactions":869,
+  "median_price_rm":1000000,
+  "median_psf_rm":929,
+  "median_size_sqft":958
+ },
+ {
+  "state":"W.P. Kuala Lumpur",
+  "year":2026,
+  "transactions":430,
+  "median_price_rm":771000,
+  "median_psf_rm":791,
+  "median_size_sqft":958
+ }
+]

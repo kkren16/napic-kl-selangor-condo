@@ -1,0 +1,479 @@
+state,district,mukim,scheme,transactions,median_price_rm,median_psf_rm,median_size_sqft,tenure,first_sale,last_sale
+Selangor,Gombak,Bandar Hulu Kelang,GAYA MELAWATI,2,297500,614,484,Freehold,2025-08,2026-01
+Selangor,Gombak,Bandar Hulu Kelang,SERINI MELAWATI,2,590000,626,936,Freehold,2025-10,2026-04
+Selangor,Gombak,Bandar Kepong,AMANJA (BLOK BARIS),5,819000,506,1582,Freehold,2025-01,2025-10
+Selangor,Gombak,Bandar Kundang,AVIA PLUS @ BANDAR COUNTRY HOMES,1,315000,324,972,Leasehold,2025-07,2025-07
+Selangor,Gombak,Bandar Selayang,162 RESIDENCY,4,440000,382,1146,Leasehold,2025-01,2026-05
+Selangor,Gombak,Bandar Selayang,168 PARK SELAYANG,1,486000,494,983,Leasehold,2025-05,2025-05
+Selangor,Gombak,Bandar Selayang,AMARA SERVICE RESIDENCE,10,540000,544,1006,Freehold,2025-05,2026-08
+Selangor,Gombak,Bandar Selayang,SYMPHONY HEIGHTS,4,369500,356,1044,Leasehold,2025-01,2026-01
+Selangor,Gombak,Bandar Selayang,V-RESIDENSI 5,1,576000,486,1184,Leasehold,2026-01,2026-01
+Selangor,Gombak,Hulu Klang,NADAYU 63,3,450000,604,1086,Leasehold,2025-01,2025-07
+Selangor,Gombak,Setapak,AYUMAN SUITES @ GOMBAK,6,317500,526,570,Freehold,2025-07,2026-04
+Selangor,Hulu Langat,Ampang,THE MARK @ CHERAS,5,450000,728,618,Leasehold,2025-01,2026-07
+Selangor,Hulu Langat,Bandar Ampang,TAMAN PANDAN PERDANA (28 BOULEVARD),2,1865000,1323,1394,Leasehold,2025-10,2026-01
+Selangor,Hulu Langat,Bandar Ampang,TMN PANDAN PERDANA (28 BOULEVARD),4,320000,708,452,Leasehold,2025-01,2025-10
+Selangor,Hulu Langat,Bandar Baru Bangi,RESIDENSI OSTIA,1,440000,517,850,Leasehold,2025-06,2025-06
+Selangor,Hulu Langat,Bandar Batu 18 Semenyih,HILLPARK RESIDENCE,1,1000000,645,1550,Freehold,2025-11,2025-11
+Selangor,Hulu Langat,Bandar Batu 18 Semenyih,TAMAN ANGGERIK PERDANA (SIMFONI 1&2),1,400000,413,969,Leasehold,2025-10,2025-10
+Selangor,Hulu Langat,Bandar Batu 9 Cheras,METRO CHERAS,9,298000,543,549,Freehold,2025-04,2026-04
+Selangor,Hulu Langat,Bandar Batu 9 Cheras,TMN ANGGERIK PERDANA (SIMFONI 1&2),1,177000,183,969,Leasehold,2025-07,2025-07
+Selangor,Hulu Langat,Bandar Cheras,LANDMARK RESIDENCE,1,510000,465,1098,Freehold,2025-01,2025-01
+Selangor,Hulu Langat,Bandar Cheras,"LIVIA RESIDENCES, DATARAN C180",2,285000,422,700,Freehold,2025-09,2026-02
+Selangor,Hulu Langat,Bandar Cheras,PARKLAND RESIDENCE,3,400000,604,700,Freehold,2025-01,2026-02
+Selangor,Hulu Langat,Bandar Cheras,RESIDENSI CHERAS SELATAN,1,330000,601,549,Leasehold,2026-01,2026-01
+Selangor,Hulu Langat,Bandar Cheras,RESIDENSI NETIZEN,7,520000,573,926,Freehold,2025-08,2026-08
+Selangor,Hulu Langat,Bandar Kajang,MKH BOULEVARD 1,1,420000,488,861,Leasehold,2025-06,2025-06
+Selangor,Hulu Langat,Bandar Kajang,MKH BOULEVARD 2,2,385500,525,754,Freehold,2025-10,2025-11
+Selangor,Hulu Langat,Bandar Kajang,MKH BOULEVARD JALAN BUKIT,1,464000,484,958,Freehold,2025-01,2025-01
+Selangor,Hulu Langat,Bandar Kajang,NEXUS@KAJANG,2,383000,421,899,Freehold,2025-12,2026-02
+Selangor,Hulu Langat,Bandar Kajang,RESIDENSI JERNIH,1,270000,492,549,Freehold,2026-07,2026-07
+Selangor,Hulu Langat,Bandar Kajang,RESIDENSI MERIAH (MIRAI RESIDENCES),1,408000,512,797,Freehold,2026-07,2026-07
+Selangor,Hulu Langat,Bandar Kajang,SAVILLE @KAJANG,1,300000,422,710,Freehold,2025-07,2025-07
+Selangor,Hulu Langat,Bandar Kajang,TAMAN KAJANG UTAMA,11,346000,318,1119,Freehold,2026-01,2026-08
+Selangor,Hulu Langat,Bandar Kajang,VISTA BANGI,1,280000,578,484,Freehold,2025-11,2025-11
+Selangor,Hulu Langat,Bandar Kajang,"VISTA BANGI,JALAN REKO",1,424000,438,969,Freehold,2025-07,2025-07
+Selangor,Hulu Langat,Beranang,BANDAR PUTERI BANGI,2,407000,430,947,Freehold,2026-01,2026-03
+Selangor,Hulu Langat,Beranang,BDR PUTERI BANGI,3,458000,372,1206,Freehold,2025-04,2025-10
+Selangor,Hulu Langat,Beranang,RESIDENSI PR1MA @ BANDAR BUKIT MAHKOTA,1,296000,344,861,Freehold,2026-02,2026-02
+Selangor,Hulu Langat,Beranang,TMN BKT MAHKOTA,1,327000,380,861,Freehold,2025-02,2025-02
+Selangor,Hulu Langat,Pekan Cheras,EMERALD 9 CHERAS,2,585000,610,958,Freehold,2026-04,2026-05
+Selangor,Hulu Langat,Pekan Cheras,SILK SKY,5,298000,602,474,Freehold,2025-08,2026-07
+Selangor,Hulu Langat,Pekan Cheras,YOU CITY CHERAS,4,465000,508,775,Freehold,2025-11,2026-08
+Selangor,Hulu Langat,Pekan Cheras,"YOU RESIDENCE, YOU CITY CHERAS",9,475000,573,872,Freehold,2025-01,2025-11
+Selangor,Hulu Langat,Pekan Kajang,AKASA CHERAS SOUTH,10,700000,608,1152,Freehold,2025-07,2026-07
+Selangor,Hulu Langat,Pekan Kajang,AMERIN RESIDENCE,1,533000,390,1367,Freehold,2025-01,2025-01
+Selangor,Hulu Langat,Pekan Kajang,JADE HILLS,1,550000,456,1206,Freehold,2025-11,2025-11
+Selangor,Hulu Langat,Pekan Kajang,RESIDENSI SETIA IMPIAN,2,390000,310,1313,Freehold,2025-10,2026-07
+Selangor,Hulu Langat,Pekan Kajang,SYMPHONY TOWER,4,455000,467,974,Freehold,2025-04,2026-07
+Selangor,Hulu Langat,Pekan Kajang,TMN SUTERA (KAJANG),2,491500,407,1206,Freehold,2025-01,2025-04
+Selangor,Hulu Langat,Pekan Kg Sungai Tangkas,RESIDENSI MUTIARA @ KAJANG,3,285000,365,904,Freehold,2025-01,2026-01
+Selangor,Hulu Langat,Pekan Kg Sungai Tangkas,TIARA IMPERIO @ BANGI,2,210000,465,452,Freehold,2025-04,2025-07
+Selangor,Hulu Langat,Semenyih,ASCOTTE BOULEVARD,2,390000,408,964,Freehold,2025-10,2026-08
+Selangor,Hulu Langat,Semenyih,KIARA PLAZA,2,286000,453,662,Freehold,2025-01,2026-09
+Selangor,Klang,Bandar Kelang,BERKELEY UPTOWN RESIDENCES,2,442000,546,808,Freehold,2025-10,2026-04
+Selangor,Klang,Bandar Klang,BERKELEY UPTOWN RESIDENCES,2,297000,541,549,Freehold,2026-07,2026-07
+Selangor,Klang,Bandar Kota Kemuning,KNOX WAWASAN (GEO BUKIT RIMAU),3,530000,508,1044,Freehold,2026-07,2026-07
+Selangor,Klang,Kelang,GRAVIT8,3,450000,606,732,Freehold,2025-07,2026-01
+Selangor,Klang,Kelang,KNOX WAWASAN (GEO BUKIT RIMAU),6,480000,566,883,Freehold,2025-01,2025-07
+Selangor,Klang,Kelang,KU SUITES,1,530000,460,1152,Freehold,2026-02,2026-02
+Selangor,Klang,Pekan Pendamaran,TRIO,1,380000,579,657,Freehold,2025-02,2025-02
+Selangor,Kuala Langat,Tanjung 12,BDR SAUJANA PUTRA,4,490500,522,1044,Leasehold,2025-12,2026-08
+Selangor,Kuala Langat,Tanjung 12,BSP 21 BDR SAUJANA PUTRA,3,282000,256,1044,Leasehold,2025-03,2026-09
+Selangor,Kuala Langat,Tanjung 12,BSP SKYPARK(BSP),2,388000,341,1178,Leasehold,2026-01,2026-07
+Selangor,Kuala Langat,Tanjung 12,ECO SANCTUARY,7,420000,420,1001,Leasehold,2025-07,2026-07
+Selangor,Kuala Langat,Tanjung 12,GAMUDA COVE,7,418000,591,818,Leasehold,2025-12,2026-09
+Selangor,Kuala Langat,Tanjung 12,GAMUDA KEMUNING 25.7,2,534000,702,759,Leasehold,2026-05,2026-08
+Selangor,Kuala Langat,Tanjung 12,KOI PRIMA,1,385000,459,839,Leasehold,2025-07,2025-07
+Selangor,Kuala Selangor,Ijok,SENTROVUE SERVICE APARTMENT,1,270000,321,842,Leasehold,2025-02,2025-02
+Selangor,Petaling,Bandar Petaling Jaya,ATWATER @ PETALING JAYA,2,1265000,964,1314,Leasehold,2025-08,2026-08
+Selangor,Petaling,Bandar Petaling Jaya,AZURE RESIDENCE/SAPPHIRE- SS7,1,1188000,756,1572,Leasehold,2025-10,2025-10
+Selangor,Petaling,Bandar Petaling Jaya,"DATARAN MILLENIUM - SEK.14, PJ",1,570000,490,1163,Leasehold,2026-07,2026-07
+Selangor,Petaling,Bandar Petaling Jaya,"ICON CITY - SS 8, PETALING JAYA",1,1150000,826,1393,Leasehold,2025-08,2025-08
+Selangor,Petaling,Bandar Petaling Jaya,KELANA SENTRAL- SS6 KELANA JAYA,2,356000,384,948,Freehold,2025-01,2025-07
+Selangor,Petaling,Bandar Petaling Jaya,MEGAH RISE @ TAMAN MEGAH,2,1575000,1326,1190,Freehold,2025-07,2026-05
+Selangor,Petaling,Bandar Petaling Jaya,MILLENNIUM PLACE SERV APART-SEK .14 P.J,5,550000,506,1087,Leasehold,2025-01,2026-08
+Selangor,Petaling,Bandar Petaling Jaya,PACIFIC 63,2,345000,625,554,Leasehold,2025-04,2025-04
+Selangor,Petaling,Bandar Petaling Jaya,PACIFIC STAR,1,500000,692,723,Leasehold,2025-10,2025-10
+Selangor,Petaling,Bandar Petaling Jaya,PJ MIDTOWN,12,847000,926,915,Leasehold,2025-01,2026-03
+Selangor,Petaling,Bandar Petaling Jaya,RESIDENSI IDAMAN AWAN @ THE ACRUZ,1,897000,947,947,Leasehold,2026-07,2026-07
+Selangor,Petaling,Bandar Petaling Jaya,RESIDENSI PANORAMA KELANA JAYA,2,772500,812,952,Freehold,2025-04,2026-07
+Selangor,Petaling,Bandar Petaling Jaya,RESIDENSI RYAN & MIHO,2,794500,882,904,Leasehold,2025-11,2025-11
+Selangor,Petaling,Bandar Petaling Jaya,RESIDENSI SEVENTEEN,9,828000,854,1023,Freehold,2025-05,2026-08
+Selangor,Petaling,Bandar Petaling Jaya,RESIDENSI SUNWAY SERENE - SS 8,3,1289000,1009,1195,Leasehold,2025-06,2025-11
+Selangor,Petaling,Bandar Petaling Jaya,RUBY SEAPARK,6,860000,958,920,Freehold,2025-07,2026-07
+Selangor,Petaling,Bandar Petaling Jaya,"THE RESIDENCE,JAYA ONE",3,735000,693,1066,Leasehold,2025-01,2026-07
+Selangor,Petaling,Bandar Petaling Jaya,TROPICANA CITY TROPICS,9,500000,705,624,Freehold,2025-04,2026-09
+Selangor,Petaling,Bandar Petaling Jaya,UPTOWN RESIDENCE,13,1080000,1079,1001,Freehold,2025-01,2026-07
+Selangor,Petaling,Bandar Shah Alam,BESTARI SEK. 16 SHAH ALAM,1,200000,232,861,Leasehold,2026-08,2026-08
+Selangor,Petaling,Bandar Shah Alam,BRUNSFIELD SERVICE APARTMENT,1,230000,278,829,Leasehold,2026-07,2026-07
+Selangor,Petaling,Bandar Shah Alam,I-RESIDENCE (I-CITY)-SEK.7 SHAH ALAM,2,625000,457,1367,Freehold,2025-10,2026-01
+Selangor,Petaling,Bandar Shah Alam,MENARA U - SEK 13 SHAH ALAM,5,450000,836,538,Leasehold,2025-02,2025-10
+Selangor,Petaling,Bandar Shah Alam,METIA -SEKSYEN 13 SHAH ALAM,1,420000,494,850,Leasehold,2025-11,2025-11
+Selangor,Petaling,Bandar Shah Alam,PRIMA U1 - SEKSYEN 13,1,340000,347,980,Leasehold,2026-07,2026-07
+Selangor,Petaling,Bandar Shah Alam,SEK. 13 SHAH ALAM - PERSANDA,2,380000,410,926,Leasehold,2025-11,2026-07
+Selangor,Petaling,Bandar Shah Alam,SRI ACAPPELLA SERV. APART-SEK.13 S ALAM,2,390000,466,834,Leasehold,2025-04,2025-04
+Selangor,Petaling,Bandar Shah Alam,SURI PUTERI SERVICE APARTMENT,2,399000,373,1076,Leasehold,2025-04,2026-07
+Selangor,Petaling,Bandar Subang Jaya,(SJCC) LOT 15 - SS 16 SUBANG JAYA,4,690000,885,742,Freehold,2025-01,2026-02
+Selangor,Petaling,Bandar Subang Jaya,CASA TIARA SERVICE APARTMENT-SS16 S.JAYA,13,410000,543,883,Freehold,2025-02,2026-08
+Selangor,Petaling,Bandar Subang Jaya,DORSETT WATERFRONT SUBANG,1,280000,702,399,Freehold,2026-04,2026-04
+Selangor,Petaling,Bandar Subang Jaya,E-TIARA SER. APART -SS 16 S.JAYA,3,405000,570,710,Freehold,2025-01,2026-07
+Selangor,Petaling,Bandar Subang Jaya,ISOLA SUBANG JAYA,2,1107500,798,1389,Freehold,2025-04,2025-10
+Selangor,Petaling,Bandar Subang Jaya,"SAUJANA RESIDENCY - SS 16, SUBANG JAYA",6,917500,585,1652,Freehold,2025-02,2026-04
+Selangor,Petaling,Bandar Subang Jaya,"SS 16, SUBANG JAYA",1,270000,492,549,Freehold,2025-07,2025-07
+Selangor,Petaling,Bandar Subang Jaya,SUBANG AVENUE,11,440000,440,1001,Freehold,2025-01,2026-07
+Selangor,Petaling,Bandar Subang Jaya,SUBANG OLIVES RESIDENCE-SS16 S.JAYA,4,720000,374,1927,Freehold,2025-08,2026-08
+Selangor,Petaling,Bandar Subang Jaya,THE GRAND SUBANG-SS 13 SUBANG JAYA,10,466500,862,517,Freehold,2025-01,2026-07
+Selangor,Petaling,Bdr Damansara,LUMI TROPICANA - PJU 3,4,939000,861,1012,Leasehold,2025-04,2026-07
+Selangor,Petaling,Bdr Damansara,TROPICANA AVNUE - PJU3,1,800000,782,1023,Leasehold,2025-01,2025-01
+Selangor,Petaling,Bdr Glenmarie,TEMASYA 8 - U1 GLENMARIE,1,705000,762,926,Freehold,2025-02,2025-02
+Selangor,Petaling,Bdr Petaling Jaya Selatan,AERA SERVIS RESIDENSI @ AERA-PJS 5,1,400000,729,549,Leasehold,2025-11,2025-11
+Selangor,Petaling,Bdr Saujana,HIJAUAN SAUJANA - U2,4,587500,426,1378,Freehold,2025-03,2026-01
+Selangor,Petaling,Bdr Saujana,NOVA SAUJANA,3,497000,570,872,Freehold,2025-05,2026-01
+Selangor,Petaling,Bdr Sri Damansara,ATIVO SUITES - DAMANSARA AVENUE,4,1176500,882,1351,Freehold,2025-07,2026-04
+Selangor,Petaling,Bdr Sunway,BOULEVARD SUBANG JAYA-SS12 S.JAYA,1,580000,424,1367,Leasehold,2025-01,2025-01
+Selangor,Petaling,Bdr Sunway,GREENFIELD RESIDENCE - PJS 8,4,657500,970,678,Leasehold,2025-01,2026-07
+Selangor,Petaling,Bdr Sunway,RESIDENSI GEO,4,1130000,1157,996,Leasehold,2025-04,2026-07
+Selangor,Petaling,Bdr Sunway,RESORT SUITE (PYRAMID TOWER),1,480000,874,549,Leasehold,2025-07,2025-07
+Selangor,Petaling,Bdr Sunway,YOLO SIGNATURES SUITES,4,479000,935,544,Leasehold,2025-02,2026-08
+Selangor,Petaling,Bukit Raja,DENAI 128 HABITUS,5,300000,619,570,Freehold,2025-01,2026-07
+Selangor,Petaling,Bukit Raja,EDU SENTRAL,2,241000,651,399,Freehold,2025-07,2025-10
+Selangor,Petaling,Bukit Raja,HANA @ ECO ARDENCE,1,445000,494,900,Freehold,2026-07,2026-07
+Selangor,Petaling,Bukit Raja,HUNI @ ECO ARDENCE,21,450000,455,1001,Freehold,2025-01,2026-08
+Selangor,Petaling,Bukit Raja,SETIA CITY RESIDENCES,10,610000,595,990,Freehold,2025-04,2026-09
+Selangor,Petaling,Bukit Raja,SUNSURIA FORUM - BDR SETIA ALAM,2,580000,614,953,Freehold,2025-01,2025-07
+Selangor,Petaling,Bukit Raja,TULIP RESIDENCE- DENAI ALAM,1,559000,584,958,Freehold,2026-05,2026-05
+Selangor,Petaling,Damansara,ALAM IDAMAN,2,357500,409,872,Freehold,2025-07,2025-10
+Selangor,Petaling,Damansara,ALAM SANJUNG - BATU 3 SHAH ALAM,3,340000,395,861,Freehold,2025-01,2026-07
+Selangor,Petaling,Damansara,ARA DAMANSARA - ARA GREENS,8,1115000,846,1894,Freehold,2025-01,2026-08
+Selangor,Petaling,Damansara,CANTARA RESIDENCE @ ARA DAMANSARA,6,782500,902,856,Freehold,2025-06,2026-04
+Selangor,Petaling,Damansara,"EVE SUITES,ARA DAMANSARA",15,395000,559,689,Freehold,2025-01,2026-07
+Selangor,Petaling,Damansara,MAISSON @ PLATINUM APARTMENT,9,415000,586,678,Freehold,2025-01,2026-01
+Selangor,Petaling,Damansara,OASIS SERVICED SUITES,3,350000,517,678,Freehold,2025-02,2026-07
+Selangor,Petaling,Damansara,PACIFIC PLACE COMMERCIAL CENTRE,3,391000,448,1033,Leasehold,2025-03,2025-11
+Selangor,Petaling,Damansara,PUTRA RESIDENCE-HT5Q,3,650000,623,1044,Freehold,2025-04,2026-01
+Selangor,Petaling,Damansara,RADIA RESIDENCES @ BUKIT JELUTONG,3,460000,569,872,Freehold,2025-04,2026-04
+Selangor,Petaling,Damansara,RENAI JELUTONG @ BUKIT JELUTONG,2,685000,569,1206,Freehold,2025-01,2025-02
+Selangor,Petaling,Damansara,SURIA RESIDENCES @ BUKIT JELUTONG,1,395000,489,807,Freehold,2026-01,2026-01
+Selangor,Petaling,Damansara,THE POTPOURRI RESIDENCE-PJU1 ARA D'SARA,1,635000,670,947,Leasehold,2025-03,2025-03
+Selangor,Petaling,Damansara,UTROPOLIS SERVICE APARTMENT,7,450000,623,883,Freehold,2025-02,2026-08
+Selangor,Petaling,Damansara,V-RESIDENSI 2,4,447500,365,1227,Freehold,2025-07,2026-08
+Selangor,Petaling,Damansara,VERDE RESIDENCE,4,835000,574,1437,Freehold,2025-05,2026-04
+Selangor,Petaling,Pekan Baru Sg Besi,HERITAGE MINES RESORT CITY,2,180000,375,480,Leasehold,2025-02,2026-07
+Selangor,Petaling,Pekan Baru Sg Buluh,CASA RESIDENZA - KOTA DAMANSARA,7,480000,497,966,Leasehold,2025-04,2026-09
+Selangor,Petaling,Pekan Baru Sg Buluh,"EMPORIS - SEKYSEN 3, KOTA DAMANSARA",1,565000,700,807,Leasehold,2025-10,2025-10
+Selangor,Petaling,Pekan Baru Sg Buluh,I RESIDENCE SERV.APART SEK.4 KOTA D'SARA,5,515000,511,1173,Leasehold,2025-04,2026-04
+Selangor,Petaling,Pekan Baru Sg Buluh,SUNWAY D'HILL RESIDENCES,1,730000,678,1076,Leasehold,2026-07,2026-07
+Selangor,Petaling,Pekan Baru Sg Buluh,SURIA PUTRA - BKT RAHMAN PUTRA,2,365000,421,866,Freehold,2026-06,2026-07
+Selangor,Petaling,Pekan Baru Sg Buluh,TROPICANA GARDENS,2,1037500,1321,796,Leasehold,2025-04,2026-07
+Selangor,Petaling,Pekan Country Heights,ALIRA @ TROPICANA METROPARK,1,685000,715,958,Freehold,2026-04,2026-04
+Selangor,Petaling,Pekan Country Heights,PALOMA SERVICE RESIDENCE-BATU TIGA,1,395000,644,614,Freehold,2026-01,2026-01
+Selangor,Petaling,Pekan Country Heights,PANDORA SERVICE RESIDENCE-BATU 3 S ALAM,2,425000,705,603,Freehold,2025-07,2026-07
+Selangor,Petaling,Pekan Country Heights,SOUTHPLACE RESIDENCES,1,400000,799,501,Freehold,2025-04,2025-04
+Selangor,Petaling,Pekan Kayu Ara,GLOMAC CENTRO,3,615000,493,1249,Leasehold,2025-04,2026-07
+Selangor,Petaling,Pekan Kayu Ara,RESIDENSI 121,10,375000,818,452,Leasehold,2025-03,2026-08
+Selangor,Petaling,Pekan Kinrara,8 KINRARA,1,688000,546,1259,Freehold,2025-01,2025-01
+Selangor,Petaling,Pekan Kinrara,DUET RESIDENCE-BDR KINRARA,4,480000,366,1298,Freehold,2025-07,2026-01
+Selangor,Petaling,Pekan Kinrara,SETIA WALK (PUSAT BANDAR PUCHONG),4,470000,430,1103,Freehold,2025-04,2026-07
+Selangor,Petaling,Pekan Kinrara,SOLACE SERVICE APT-SETIA WALK,5,570000,490,1356,Freehold,2025-07,2026-07
+Selangor,Petaling,Pekan Kinrara,TEN KINRARA RESIDENCE,1,638000,760,840,Freehold,2026-03,2026-03
+Selangor,Petaling,Pekan Kinrara,THE ZEST @ KINRARA 9,10,482500,408,1152,Freehold,2025-02,2026-07
+Selangor,Petaling,Pekan Penaga,BELVEDERE APARTMENT,1,310000,327,949,Leasehold,2025-04,2025-04
+Selangor,Petaling,Pekan Penaga,D'LATOUR,2,710000,846,834,Leasehold,2025-04,2025-10
+Selangor,Petaling,Pekan Penaga,SENZA RESIDENT-PJS 7,3,600000,581,1033,Freehold/Leasehold,2025-02,2025-10
+Selangor,Petaling,Pekan Puchong Jaya,KOI KINRARA - BDR PUCHONG JAYA,6,445000,391,1184,Freehold,2025-07,2026-07
+Selangor,Petaling,Pekan Puchong Jaya,KOI LEGIAN KONDO-TMN KINRARA SEK.5,1,305000,292,1044,Leasehold,2025-01,2025-01
+Selangor,Petaling,Pekan Puchong Jaya,SKYPOD RESIDENCES,4,447500,502,861,Freehold,2025-07,2026-07
+Selangor,Petaling,Pekan Puchong Jaya,SURIA KINRARA SERVICE APARTMENT,1,230000,323,712,Leasehold,2026-05,2026-05
+Selangor,Petaling,Pekan Puchong Perdana,THE WHARF RESIDENCE - TMN TASIK PRIMA,1,260000,327,795,Leasehold,2025-01,2025-01
+Selangor,Petaling,Pekan Serdang,EAST LAKE RESIDENCE-SERDANG,3,320000,289,1109,Leasehold,2025-05,2026-07
+Selangor,Petaling,Pekan Serdang,ONE SOUTH SOHO,5,599000,510,1141,Leasehold,2025-03,2026-01
+Selangor,Petaling,Pekan Serdang,P/PURI SURIA PERDANA-TMN SERDANG PERDANA,3,340000,307,1109,Leasehold,2025-01,2025-11
+Selangor,Petaling,Pekan Serdang,SERDANG SKYVILLAS - TMN SERDANG PERDANA,3,250000,282,900,Freehold/Leasehold,2025-04,2025-11
+Selangor,Petaling,Pekan Serdang,SK ONE RESIDENCE,1,375000,405,926,Freehold,2025-05,2025-05
+Selangor,Petaling,Pekan Serdang,SOUTH CITY SERVICE APARTMENT,7,240000,249,951,Leasehold,2025-01,2026-08
+Selangor,Petaling,Pekan Subang Jaya,CASA SUBANG-USJ 1,7,550000,563,1066,Freehold,2025-01,2026-04
+Selangor,Petaling,Pekan Subang Jaya,IMPIAN MERIDIAN SERVICE APT-USJ 1,20,575000,563,969,Freehold,2025-02,2026-04
+Selangor,Petaling,Pekan Subang Jaya,KENWINGSTON - USJ 1,10,567500,845,657,Freehold,2025-03,2026-07
+Selangor,Petaling,Pekan Subang Jaya,RHYTHM AVENUE,20,255000,392,759,Freehold,2025-01,2026-08
+Selangor,Petaling,Pekan Subang Jaya,RYTHM AVENUE,2,185000,370,512,Freehold,2025-08,2025-09
+Selangor,Petaling,Pekan Subang Jaya,THE MAIN PLACE RESIDENCE (NEW GATE),19,320000,489,614,Freehold,2025-01,2026-08
+Selangor,Petaling,Pekan Subang Jaya,USJ ONE - USJ 1 (SUBANG JAYA),1,415000,612,678,Freehold,2025-04,2025-04
+Selangor,Petaling,Pekan Subang Jaya,YOU ONE USJ 1,1,3000000,981,3057,Freehold,2025-10,2025-10
+Selangor,Petaling,Petaling,CITY OF GREEN@BKT JALIL TECHNOLOGY PARK,1,600000,500,1200,Freehold,2025-09,2025-09
+Selangor,Petaling,Petaling,EQUINE RESIDENCE,1,450000,709,635,Leasehold,2025-10,2025-10
+Selangor,Petaling,Petaling,KOI TROPICA SERVICE APARTMENT,4,395000,316,1104,Leasehold,2025-01,2026-08
+Selangor,Petaling,Petaling,LE PAVILLION-BDR PUTERI,1,580000,605,958,Freehold,2026-08,2026-08
+Selangor,Petaling,Petaling,RESIDENSI AMANI - PUCHONG HARTAMAS,1,265000,589,450,Leasehold,2026-01,2026-01
+Selangor,Petaling,Petaling,SFERA RESIDENCY,1,600000,641,936,Leasehold,2025-04,2025-04
+Selangor,Petaling,Petaling,THE PULSE RESIDENCE,3,270000,492,549,Freehold,2025-05,2026-07
+Selangor,Petaling,Petaling,ZENOPY RESIDENCES,1,621000,549,1130,Leasehold,2026-01,2026-01
+Selangor,Petaling,Petaling,ZEVA RESIDENCE - SERI KEMBANGAN,2,365000,439,904,Leasehold,2025-04,2025-05
+Selangor,Petaling,Sungai Buluh,BDR DAMANSARA PERDANA,1,560000,509,1100,Leasehold,2025-09,2025-09
+Selangor,Petaling,Sungai Buluh,METROPOLITAN SQUARE DAMANSARA PERDANA,1,540000,434,1245,Leasehold,2026-04,2026-04
+Selangor,Petaling,Sungai Buluh,NEO DAMANSARA-PJU 8 D'SARA PERDANA,1,275000,569,484,Leasehold,2026-07,2026-07
+Selangor,Petaling,Sungai Buluh,ONE DAMANSARA-PJU 10 DAMANSARA DAMAI,3,499000,445,1012,Leasehold,2025-08,2025-10
+Selangor,Petaling,Sungai Buluh,PERDANA EXCLUSIVE SERVICE APARTMENT,8,339000,351,988,Leasehold,2025-04,2026-04
+Selangor,Petaling,Sungai Buluh,REFLECTION RESIDENCES,4,727500,671,1076,Freehold,2025-10,2026-07
+Selangor,Petaling,Sungai Buluh,RESIDENSI DAMAI MERIAH (THE ZIZZ),1,391000,519,753,Leasehold,2025-10,2025-10
+Selangor,Petaling,Sungai Buluh,RESIDENSI EMBUN DAMAI,3,500000,533,900,Leasehold,2025-07,2026-05
+Selangor,Petaling,Sungai Buluh,RITZE PERDANA SERVICE APT,9,250000,563,409,Leasehold,2025-04,2026-08
+Selangor,Sepang,Bandar Cyberjaya,CYBERJAYA (SHAFTSBURY-SERVICE APT),3,285000,540,639,Freehold,2025-02,2025-07
+Selangor,Sepang,Bandar Cyberjaya,CYBERJAYA(ECLIPSE RESIDENCE-SERVICE APT),4,393000,840,705,Freehold,2026-01,2026-07
+Selangor,Sepang,Bandar Cyberjaya,EDUSPHERE @ CYBERJAYA,2,437000,967,452,Freehold,2025-12,2026-04
+Selangor,Sepang,Bandar Cyberjaya,KENWINGSTON RESIDENCE @ SQUARE GARDEN,1,233000,355,657,Freehold,2025-08,2025-08
+Selangor,Sepang,Bdr Baru Bangi,DE' CENTRUM,1,350000,478,732,Freehold,2026-03,2026-03
+Selangor,Sepang,Dengkil,ACACIA RESIDENCE @ SALAK PERDANA,3,420000,494,850,Freehold,2025-09,2026-05
+Selangor,Sepang,Dengkil,ALANIS RESIDENCE@KOTA WARISAN,10,353000,479,786,Freehold,2025-02,2026-07
+Selangor,Sepang,Dengkil,ARENA RESIDENCES,2,501000,511,980,Freehold,2025-07,2026-04
+Selangor,Sepang,Dengkil,BANDAR 16 SIERRA,1,530000,560,947,Leasehold,2026-08,2026-08
+Selangor,Sepang,Dengkil,CONEZION COMMERCIAL,47,789000,686,1206,Freehold,2025-01,2026-09
+Selangor,Sepang,Dengkil,CYBERJAYA,1,450000,1020,441,Freehold,2026-04,2026-04
+Selangor,Sepang,Dengkil,CYBERJAYA (D'PULZE-SERVICE APT),2,365000,595,608,Freehold,2025-04,2025-07
+Selangor,Sepang,Dengkil,CYBERJAYA (GARDEN PLAZA-SERVICE APT),11,360000,816,441,Freehold,2025-10,2026-08
+Selangor,Sepang,Dengkil,CYBERJAYA-NEOCYBER,4,272500,361,775,Freehold,2025-07,2026-07
+Selangor,Sepang,Dengkil,D'AMAN RESIDENCES,1,430000,399,1076,Leasehold,2026-09,2026-09
+Selangor,Sepang,Dengkil,IDAMAN MELUR,1,225000,220,1022,Leasehold,2026-04,2026-04
+Selangor,Sepang,Dengkil,IOI RESORT (DENGKIL),1,520000,377,1378,Freehold,2026-08,2026-08
+Selangor,Sepang,Dengkil,KITA IMPIAN @ CYBERSOUTH,3,340000,379,904,Leasehold,2025-08,2026-09
+Selangor,Sepang,Dengkil,KITA RIA @ CYBERSOUTH,2,347000,384,904,Leasehold,2026-04,2026-06
+Selangor,Sepang,Dengkil,KOTA WARISAN - CORE SOHO SUITES,1,336000,761,441,Freehold,2025-04,2025-04
+Selangor,Sepang,Dengkil,LBS SKYLAKE RESIDENCE @ PUCHONG,1,226000,256,883,Leasehold,2025-04,2025-04
+Selangor,Sepang,Dengkil,SAVILLE D'LAKE,1,605000,604,1001,Leasehold,2025-08,2025-08
+Selangor,Sepang,Dengkil,SELANGORKU PR1MA LAKEFRONT HOMES,1,450000,445,1012,Freehold,2026-06,2026-06
+Selangor,Sepang,Dengkil,SOUTHVILLE CITY(SAVANNA EXECUTIVE SUITE),12,560000,540,958,Freehold,2025-02,2026-09
+Selangor,Sepang,Dengkil,SOUTHVILLE CITY(SENSORY RESIDENCE),3,437000,489,893,Freehold,2025-04,2026-09
+Selangor,Sepang,Dengkil,SOUTHVILLE CITY-CERRADO RESIDENTAL SUITE,2,485000,488,1006,Freehold,2025-05,2026-08
+Selangor,Sepang,Dengkil,SUNSURIA CITY,7,330000,748,441,Freehold,2025-04,2025-10
+Selangor,Sepang,Dengkil,TANGERINE SUITES -BDR SUNSURIA,1,340000,486,700,Freehold,2026-02,2026-02
+Selangor,Sepang,Dengkil,THE ARC @ CYBERJAYA (SERVICE APT),5,362000,396,904,Freehold,2026-01,2026-09
+Selangor,Sepang,Dengkil,THE CLIO 2 RESIDENCES (LOT 119161),2,617000,661,936,Freehold,2026-09,2026-09
+Selangor,Sepang,Dengkil,THE CLIO RESIDENCES (LOT 119160),1,410000,363,1130,Freehold,2026-07,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,1 PERSIARAN KLCC @QUADRO RESIDENCE,6,2203000,1015,2357,Freehold,2025-10,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,10 STONOR,9,1378000,1707,807,Freehold,2025-01,2025-12
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,163 SERVICE SUITES,1,496000,808,614,Freehold,2025-04,2025-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,3 KIA PENG,4,3330000,891,3612,Freehold,2025-02,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,6 CEYLON,1,845000,701,1206,Freehold,2025-10,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,6 KIA PENG,5,1250000,1228,1206,Freehold,2025-02,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,8 KIA PENG RESIDENCES,8,1751500,1769,990,Freehold,2025-10,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,AMBASSY BUSSINESS PARK,1,300000,648,463,Freehold,2025-08,2025-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,AVARA SEPUTEH,42,687500,798,872,Freehold,2025-08,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,BANYAN TREE SIGNATURE,3,2800000,1849,1798,Freehold,2025-07,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,BERJAYA TIMES SQUARE,7,515000,839,614,Freehold,2025-02,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,BINJAI 8,2,1238000,1041,1189,Freehold,2025-11,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,BINJAI RESIDENCY,2,1415000,646,2190,Freehold,2026-04,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,CASA MUTIARA SERVICE APARTMENT,1,310000,873,355,Freehold,2025-04,2025-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,CASA RESIDENCY (SA),2,995000,1156,894,Freehold,2025-11,2026-02
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,COURT 28 @KL CITY,11,530000,643,818,Freehold,2025-01,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,CROWN REGENCY,11,1000000,686,1475,Freehold,2025-01,2025-12
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,D' ALAMANDA PUDU IMPIAN IV,4,440000,396,1120,Leasehold,2025-04,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,D'MAJESTIC,3,600000,871,689,Freehold,2025-08,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,DORSETT RESIDENSI BUKIT BINTANG,2,1771500,1586,1125,Freehold,2025-01,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,DUA SENTRAL,8,475000,596,759,Freehold,2025-04,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,ESTABLISHMENT @ ALILA BANGSAR,9,555000,1035,614,Freehold,2025-01,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,FAIRLANE RESIDENCES,1,500000,774,646,Freehold,2025-04,2025-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,FOUR SEASONS PLACE,17,9600000,2905,2863,Freehold,2025-01,2026-09
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,HAMPSHIRE PLACE RESIDENCE,1,1000000,1093,915,Freehold,2025-11,2025-11
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,HAMPSHIRE RESIDENCES,6,1170000,885,1227,Freehold,2025-11,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,IMPERIAL LEXIS KL,1,2150000,2497,861,Freehold,2026-07,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,K RESIDENCE (AVENUE K),4,2270000,1017,2443,Freehold,2025-10,2026-02
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,KL ECO CITY,3,1088000,1713,786,Leasehold,2025-04,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,KL TRILLION,3,3720000,1226,3035,Freehold,2025-10,2025-11
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,KONDOMINIUM LE NOUVEL,1,14000000,3814,3670,Freehold,2025-10,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,LAMAN CEYLON,3,1200000,1448,829,Freehold,2025-07,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,MARC SERVICE RESIDENCE,10,1525000,1097,1496,Freehold,2025-01,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,MENARA BINTANG GOLDHILL,7,1000000,678,1475,Freehold,2025-01,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,MENARA INSPIRASI,1,1100000,1231,893,Leasehold,2025-05,2025-05
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,MENARA PGRM2(SERI CEMPAKA SERVIS SUITES),1,200000,351,570,Leasehold,2025-10,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,MENARA SOHO,4,757500,1013,672,Freehold,2025-10,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,MY HABITAT,2,624000,720,866,Freehold,2025-10,2026-05
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,NADI BANGSAR,4,1100000,1022,1076,Freehold,2025-07,2026-09
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,NORTH POINT (RESIDENCES),1,1000000,732,1367,Leasehold,2025-10,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,NOVO AMPANG,10,1114500,1618,689,Freehold,2025-01,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,ONE @ BUKIT CEYLON (SA),2,410000,937,436,Freehold,2025-11,2026-01
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,ONE RESIDENCY,1,1000000,774,1292,Freehold,2025-12,2025-12
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,OXLEY TOWERS,3,1994000,2406,915,Freehold,2026-01,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,PANGSAPURI ANGGUN JS I,1,1500000,1097,1367,Freehold,2025-04,2025-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,PANGSAPURI ARIA,13,1658000,1513,1163,Freehold,2025-01,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,PANGSAPURI SERVIS CONLAY,6,2767000,2516,947,Freehold,2025-10,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,PARKVIEW SERVICE APARTMENT,4,442500,833,565,Freehold,2025-10,2026-05
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,PAVILION CEYLON HILL,4,1670000,1351,1228,Freehold,2025-04,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,PAVILION EMBASSY,12,2440000,1401,1717,Freehold,2025-07,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,PAVILION RESIDENCES,6,3500000,1504,2336,Leasehold,2025-04,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,PAVILION SUITES,7,3600000,2944,1259,Freehold,2025-01,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,PHILEO PROMENADE,1,750000,494,1518,Freehold,2025-04,2025-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,PUTRA MAJESTIK,20,560000,548,1012,Freehold,2025-01,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,QUILL RESIDENCE,19,1150000,1284,1345,Freehold,2025-07,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RC RESIDENCE JALAN RAZAK MANSION,2,449500,482,936,Leasehold,2026-04,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RC RESIDENCE JLN RAZAK MANSION,3,604000,536,1141,Leasehold,2025-01,2025-03
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,REGALIA SERVICE APARTMENT,7,650000,702,969,Freehold,2026-01,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDEN SIMBAR TRX,5,1846000,2151,807,Freehold,2025-10,2026-01
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDENSI 1,17,1040000,833,1249,Leasehold,2025-04,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDENSI 38 BANGSAR,3,1010000,1380,732,Leasehold,2026-04,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDENSI AGILE DELIMA,37,1626000,1893,861,Freehold,2025-01,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDENSI ARMANI RAJA UDA,3,1439000,1152,1302,Freehold,2026-04,2026-09
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDENSI CONTINEW,3,856000,1020,689,Freehold,2025-04,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDENSI DAMAI INDAH,8,547500,580,931,Leasehold,2025-01,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDENSI DUTA PARK,6,881000,692,1248,Freehold/Leasehold,2025-07,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDENSI EATON,4,1603500,1589,1130,Leasehold,2025-04,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDENSI LAVILE,12,862500,943,861,Freehold,2025-04,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDENSI LUCENTIA,2,1050000,1731,608,Leasehold,2025-07,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDENSI M AMPANG,3,500000,652,764,Freehold,2025-05,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDENSI OPUS,4,1003000,1012,1012,Freehold,2025-06,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDENSI PANO @ THE PANO,1,1031000,1030,1001,Freehold,2025-01,2025-01
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDENSI PUDU ALAM,1,589000,855,689,Leasehold,2025-07,2025-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDENSI SENTRAL,8,2045000,1142,1792,Freehold,2025-01,2026-09
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDENSI STAR,2,1033500,1655,624,Freehold,2025-01,2025-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDENSI STAR 2,2,2390000,2084,1141,Freehold,2025-02,2025-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDENSI SUNWAY BELFIELD,9,919000,906,1130,Freehold,2025-10,2026-09
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDENSI TRIBECA,2,965000,1655,584,Freehold,2025-01,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,"RESIDENSI TRX 1, TUN RAZAK EXCHANGE",32,1781000,2440,850,Freehold,2025-01,2026-09
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDENSI TUN RAZAK,12,543500,529,964,Leasehold,2025-01,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RESIDENSI VIVO,1,1530000,610,2508,Leasehold,2025-11,2025-11
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,RICA RESIDENCE SENTUL,7,634000,677,958,Freehold,2025-04,2026-09
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,ROYCE RESIDENCE @ MENARA 8,2,1173500,2008,582,Freehold,2025-01,2025-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,SAVILLE RESIDENCE,1,750000,606,1238,Freehold,2025-03,2025-03
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,SCOTT SENTRAL SERVICE APARTMENT,3,450000,528,786,Freehold,2026-01,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,SENTRAL SUITE,6,953000,1045,947,Leasehold,2025-01,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,SERI BUKIT CEYLON,2,715000,730,952,Freehold,2025-05,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,SETIA SKY RESIDENCE,6,1100000,827,1420,Freehold,2025-01,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,SKY SUITES @ KLCC,10,975500,1235,829,Freehold,2025-02,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,SKYLINE RESIDENCE,3,421000,805,484,Leasehold,2026-07,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,ST.MARY RESIDENSI,11,1400000,898,1464,Freehold,2025-01,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,STONOR 3,2,1300000,1384,936,Freehold,2026-02,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,SUASANA BUKIT CEYLON,1,2600000,748,3477,Freehold,2025-12,2025-12
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,SUNWAY VELOCITY,9,948000,1036,883,Freehold/Leasehold,2025-01,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,SUNWAY VELOCITY TWO,18,1005000,1125,920,Leasehold,2025-02,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,SURIA STONOR SERVICE APARTMENT,4,2300000,723,3283,Freehold,2025-02,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,SWISS GARDEN HOTEL,4,460000,861,603,Freehold,2025-04,2026-05
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,THE ATRIUM,1,1430000,1165,1227,Freehold,2025-10,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,THE MANOR KL,35,1850000,1445,1270,Freehold,2025-01,2025-12
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,THE MANOR KUALA LUMPUR,8,1605000,1400,1119,Freehold,2026-04,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,THE MERITZ,3,880000,818,1076,Freehold,2025-11,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,THE MEWS @ KLCC,3,1000000,1080,926,Freehold,2025-05,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,THE OVAL APARTMENTS,12,4640000,1191,3897,Freehold,2025-10,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,THE PANORAMA,2,1425000,944,1512,Freehold,2025-04,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,THE RITZ CARLTON RESIDENCES,1,4100000,2591,1582,Freehold,2025-10,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,THE ROBERTSON,2,1150500,1520,850,Freehold,2025-08,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,THE RUMA HOTEL & RESIDENCES,3,1500000,1639,926,Freehold,2025-09,2025-11
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,THE ST. REGIS KUALA LUMPUR,5,4500000,1866,2411,Freehold,2025-01,2026-09
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,THE TROIKA KLCC,12,2575000,966,2551,Freehold,2025-01,2026-01
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,THE TROIKA KUALA LUMPUR CITY CENTRE,3,2000000,889,2250,Freehold,2026-07,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,THREE28 TUN RAZAK,1,1150000,876,1313,Freehold,2025-10,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,TITIWANGSA SENTRAL CONDO,3,470000,446,1055,Freehold,2025-04,2026-03
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,TR RESIDENCE,1,1600000,2186,732,Freehold,2025-11,2025-11
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,TRION 2,1,550000,838,657,Freehold,2025-05,2025-05
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,TRION @ KL,9,678000,803,797,Freehold,2025-01,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,VOGUE SUITES ONE,7,1178000,1182,958,Leasehold,2025-05,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,VORTEX SUITES & RESIDENCES @KLCC,1,1000000,1239,807,Freehold,2025-08,2025-08
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,VUE RESIDENCES,2,456000,921,495,Freehold,2025-02,2025-04
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,WISMA STEPHENS / WISMA COSWAY,2,967500,613,1582,Freehold,2025-04,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Ampang,G RESIDENCE,2,985000,721,1367,Leasehold,2025-10,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Ampang,M CITY,2,644000,590,1136,Freehold,2026-01,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Ampang,SENTRIO PANDAN,1,480000,841,570,Leasehold,2026-02,2026-02
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Ampang,THE ELEMENTS,2,482500,718,673,Freehold,2025-07,2026-01
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,ARCORIS MONT KIARA,6,1400000,1218,1028,Freehold,2025-04,2026-01
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,EAST PARC @ MENJALARA,5,912000,785,1163,Freehold,2025-01,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,ECO SKY,1,640000,633,1012,Freehold,2026-04,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,FLEXUS SIGNATURE,1,400000,729,549,Freehold,2026-04,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,FORTUNE AVENUE,3,450000,362,1173,Leasehold,2025-01,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,FORTUNE PERDANA @ RESIDENSI PERDANA,3,550000,469,969,Leasehold,2025-07,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,GATEWAY KIARAMAS(SERVICED RESIDENCES),2,489000,658,743,Freehold,2025-11,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,KIARA 1,8,639000,690,926,Freehold,2025-01,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,KIARA 163,12,1000000,1144,931,Freehold,2025-01,2026-05
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,KIARA DESIGNER,4,682500,542,1259,Freehold,2025-05,2026-05
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,KIARA EAST DEX SUITES,1,311000,445,700,Leasehold,2026-08,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,KIARA II,5,865000,541,1625,Freehold,2025-01,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,LAKE VILLE RESIDENCE,2,575000,495,1158,Leasehold,2025-10,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,MET 1 RESIDENCE,2,3850000,786,5118,Freehold,2025-04,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,MONT'KIARA VERVE SUITES,11,620000,769,861,Freehold,2025-04,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,PARK REGENT DESA PARKCITY,21,4900000,2133,2347,Freehold,2025-01,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,RESIDENSI 1 UTARA,1,633000,560,1130,Leasehold,2025-06,2025-06
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,RESIDENSI 99 @ KL NORTH,7,862000,626,1378,Leasehold,2025-01,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,RESIDENSI ALAM VISTA AMAN,1,808000,715,1130,Leasehold,2026-02,2026-02
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,RESIDENSI ARADIA,1,674000,712,947,Leasehold,2025-11,2025-11
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,RESIDENSI BARON,1,866000,766,1130,Leasehold,2026-07,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,RESIDENSI BERPADU,11,560000,585,958,Freehold,2025-01,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,RESIDENSI M LUNA,2,546500,643,850,Leasehold,2026-02,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,RESIDENSI RIANA DUTAMAS 2,3,677000,681,947,Freehold,2025-02,2025-11
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,RESIDENSI RIANA DUTAMAS @ SAVVY,5,796000,650,1227,Freehold,2025-07,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,RESIDENSI SOLARIS PARQ,14,1230000,1206,1023,Freehold,2025-04,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,RESIDENSI VISTA SENTUL,1,440000,459,958,Freehold,2025-08,2025-08
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,SOLARIS DUTAMAS,12,590000,712,845,Freehold,2025-02,2026-05
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,THE ERA @ DUTA NORTH,22,804500,783,1033,Freehold,2025-02,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,UNIO RESIDENCE,3,850000,608,1195,Leasehold,2025-01,2025-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,ANGGUN LUMAYAN,2,495000,451,1098,Freehold/Leasehold,2025-01,2026-02
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,ARTE CHERAS,2,460000,491,940,Leasehold,2025-04,2025-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,AVANTAS RESIDENCES,1,688000,566,1216,Freehold,2025-04,2025-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,CENTRIO PANTAI HILL PARK (SOHO),1,560000,793,706,Leasehold,2026-05,2026-05
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,CLEAR WATER RESIDENCE,3,1284000,884,1453,Freehold,2025-01,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,DESA GREEN,9,440000,580,721,Freehold,2025-02,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,EKO RESIDENCE,15,540000,669,762,Freehold,2025-01,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,GLOMAC DAMANSARA SERVICE APPARTMENT,6,781500,714,1098,Freehold,2025-01,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,KEN BANGSAR,1,600000,845,710,Freehold,2025-05,2025-05
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,KL GATEWAY,1,530000,758,700,Leasehold,2026-01,2026-01
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,KUALA LUMPUR GATEWAY,1,496000,720,689,Leasehold,2026-04,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,LAUREL RESIDENCE,4,545000,921,592,Leasehold,2025-04,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,PAVILION DAMANSARA HEIGHTS,26,1519000,1890,807,Freehold,2025-10,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,PERTAMA RESIDENCY DESIGNER SUITES,2,310000,514,603,Leasehold,2026-04,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,PLAZA DAMAS,6,287500,690,409,Freehold,2025-02,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,PLAZA DAMAS 3,4,540000,721,658,Freehold,2025-04,2026-05
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,RESIDENSI DC (DAMANSARA CITY),16,2689500,1441,1765,Freehold,2025-07,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,RESIDENSI ERA NOVUM,8,947500,1024,872,Freehold,2025-04,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,RESIDENSI FAR EAST,1,495000,754,657,Leasehold,2025-02,2025-02
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,RESIDENSI M VERTIKA,7,583000,653,850,Leasehold,2025-04,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,RESIDENSI NEKSUS TAMAN PERTAMA,1,630000,741,850,Freehold,2026-01,2026-01
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,RESIDENSI RIMBA PANTAI DALAM,6,565000,781,732,Freehold,2025-02,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,"RESIDENSI TRX 1, TUN RAZAK EXCHANGE",1,1811000,2511,721,Freehold,2025-01,2025-01
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,SEMANTAN AVENUE,4,485000,500,990,Leasehold,2025-06,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,SENADA KIARA,4,1284000,1429,914,Leasehold,2025-07,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,SINARAN TTDI,8,1310000,800,1642,Freehold,2025-04,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,SOUTH LINK BANGSAR SOUTH,11,550000,990,592,Freehold,2025-04,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,SOUTHBANK RESIDENCE,1,800000,835,958,Freehold,2026-04,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,SOUTHVIEW RESIDENCE,7,650000,788,807,Freehold,2025-04,2026-05
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,TAMAN TUN DR ISMAIL ASCENCIA,3,750000,1268,646,Freehold,2026-04,2026-05
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,THE GREENS,3,1950000,1241,1421,Freehold,2025-07,2025-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,THE SIGNATURE DESA SRI HARTAMAS,1,780000,1082,721,Freehold,2025-01,2025-01
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,TWINS@ DAMANSARA HEIGHTS,10,1075000,688,1502,Freehold,2025-04,2026-05
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,WALDORF SERVICE APARTMENT,5,775000,697,1206,Freehold,2025-05,2026-09
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,WINSOR TOWER,3,370000,731,506,Freehold,2025-04,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,CENTRAL RESIDENSI @ SURIA SUNGAI BESI,1,700000,644,1087,Freehold,2026-05,2026-05
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,CITIZEN 2 @ OLD KLANG ROAD,1,730000,827,883,Freehold,2025-04,2025-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,CITIZEN @ RISIDENSI NUSANTRA,2,515000,577,904,Freehold,2025-01,2025-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,CONNAUGHT AVENUE,2,375000,391,958,Leasehold,2025-07,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,KUCHAI AVENUE,8,610000,659,926,Freehold,2025-01,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,M OSCAR,4,655000,724,904,Freehold,2025-07,2026-03
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,MAJESTIC MAXIM CHERAS,12,420000,545,818,Freehold/Leasehold,2025-01,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,MEDAN CONNAUGHT,1,520000,543,958,Freehold,2026-07,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,MENARA VISTA PETALING,9,660000,837,818,Freehold,2025-01,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,MILLERZ SQUARE @ OKR,4,625000,914,684,Freehold,2025-01,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,NEST 2 RESIDENCE,3,383000,652,560,Freehold,2026-01,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,PARKLANE OUG SERVICE APARTMENT,36,400000,418,958,Freehold,2025-01,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,PEARL SURIA RESIDENCE,1,658000,577,1141,Leasehold,2025-07,2025-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,PINNACLE SRI PETALING,2,597500,814,743,Freehold,2026-07,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,RESIDENSI 216 KUCHAI JAYA,1,450000,557,807,Leasehold,2025-10,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,RESIDENSI ASTER CHERAS,14,487500,726,646,Leasehold,2025-01,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,RESIDENSI CONVENA BUKIT JALIL,5,559000,694,732,Freehold,2025-04,2026-06
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,RESIDENSI DEDAUN MAS (D'IVO RESIDENCE),1,620000,694,893,Leasehold,2026-08,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,RESIDENSI HIJAUAN ASTER SRI PETALING,2,394000,508,796,Freehold,2025-02,2025-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,RESIDENSI JALIL IDAMAN @ TWIN ARKZ,2,970000,770,1259,Freehold,2026-02,2026-06
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,RESIDENSI KUCHAI DAMAI,7,450000,454,990,Freehold,2025-09,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,RESIDENSI NEKSUS TAMAN PERTAMA,1,630000,741,850,Freehold,2026-01,2026-01
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,RESIDENSI NEST,2,500000,584,861,Freehold,2025-07,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,RESIDENSI PARK 2 @ PAVILION BUKIT JALIL,9,1620000,1056,1572,Freehold,2025-01,2026-01
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,RESIDENSI PLATINUM ARENA,2,425000,658,646,Leasehold,2025-02,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,RESIDENSI RIMBUNAN @ PETALZ RESIDENSI,1,621000,740,840,Freehold,2025-10,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,RESIDENSI SKYLUXE,2,832500,908,904,Freehold,2025-07,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,RESIDENSI STELLAR 8 SRI PETALING,2,727000,967,754,Freehold,2025-11,2026-01
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,THE LEAFZ @ DEDAUN SG BESI,5,500000,510,980,Freehold,2025-01,2025-11
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,THE LINK 2 @ BUKIT JALIL,1,481000,721,667,Freehold,2025-07,2025-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,THE TROPIKA @ BUKIT JALIL,2,975000,966,1014,Freehold,2025-04,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,TIARA MUTIARA,6,335000,461,732,Freehold,2025-01,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,UNO PROMENADE @ SUNGAI BESI,1,670000,642,1044,Leasehold,2025-06,2025-06
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,VERVE SUITES KL SOUTH,2,688000,825,840,Freehold,2025-07,2025-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,DIAMOND REGENCY,3,357000,404,861,Freehold,2025-02,2025-11
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,DIAMOND RESIDENCE,2,395000,388,1022,Freehold,2025-07,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,KENWINGSTON PLATZ,3,572000,640,807,Freehold,2025-11,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,KL TRADERS SQUARE RESIDENCES,5,485000,576,940,Freehold,2025-04,2026-02
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,KUALA LUMPUR TRADERS SQUARE RESIDENCES,4,435000,497,878,Freehold,2026-04,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,M CENTURA,2,458500,562,829,Freehold,2026-03,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,MAJESTIC MAXIM CHERAS,1,414000,506,818,Leasehold,2026-05,2026-05
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,MAXIM CITILIGHTS,3,360000,445,1012,Leasehold,2025-09,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,MH PLATINUM RESIDENSI,1,319000,463,689,Leasehold,2026-08,2026-08
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,RESIDENSI 222,1,388000,419,926,Freehold,2025-11,2025-11
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,RESIDENSI ALTRIS,2,675000,728,958,Freehold,2025-08,2025-08
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,RESIDENSI GOMBAK 126,1,273000,445,614,Freehold,2026-04,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,RESIDENSI HENNA,4,475000,644,738,Freehold,2025-05,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,RESIDENSI M ASTRA,2,491000,562,872,Leasehold,2026-08,2026-09
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,RESIDENSI RABUNG KL TIMUR,1,563000,872,646,Freehold,2025-10,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,RESIDENSI SFERA WANGSA MAJU,1,637000,883,721,Leasehold,2026-07,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,SAVILLE @ MELAWATI SERVICE RESIDENCE,2,485000,467,1066,Freehold,2025-04,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,SEASONS GARDEN,3,380000,441,861,Leasehold,2025-01,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,SENTUL POINT @ PUNCAK SENTUL,3,410000,552,743,Freehold,2025-01,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,SENTUL VILLAGE,4,502500,496,947,Freehold,2025-01,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,SINARAN RESIDENSI BY BINASTRA,1,405000,562,721,Leasehold,2025-10,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,SUNWAY AVILA RESIDENCES,4,639500,655,1038,Freehold,2025-06,2025-10
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,"TAMAN DANAU KOTA,PARCEL A5@PV21",2,482500,547,883,Leasehold,2026-04,2026-07
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,TAMAN ZETA @ ZETAPARK,5,1000000,808,1270,Leasehold,2025-07,2026-04
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,THE QUARTZ- LEXA RESIDENSI,3,520000,653,797,Freehold,2025-07,2025-08
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Ulu Kelang,THE VALLEY @ RESIDENSI SKYSIRERRA,4,523500,498,1071,Leasehold,2025-01,2026-02

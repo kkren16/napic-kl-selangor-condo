@@ -1,7 +1,9 @@
-import openpyxl, pandas as pd, numpy as np
+import openpyxl, pandas as pd, numpy as np, sys
+# usage: clean.py [KL.xlsx] [SEL.xlsx] [OUT.pkl]
+KL,SEL,OUT=(sys.argv[1:4]+['work/kl.xlsx','work/sel.xlsx','work/all.pkl'][len(sys.argv[1:4]):])
 cols=['ptype','district','mukim','scheme','road','month','tenure','area','area_unit','mfa','mfa_unit','level','price']
 out=[]
-for f,state in [('work/kl.xlsx','W.P. Kuala Lumpur'),('work/sel.xlsx','Selangor')]:
+for f,state in [(KL,'W.P. Kuala Lumpur'),(SEL,'Selangor')]:
     wb=openpyxl.load_workbook(f); ws=wb.active
     for r in list(ws.merged_cells.ranges):
         v=ws.cell(r.min_row,r.min_col).value
@@ -28,7 +30,7 @@ d.loc[orion&(d.psf>=1000),'scheme']='THE ORION (NEWER HIGH-RISE, 2024 TRANSFERS)
 d['date']=pd.to_datetime(d.month,format='%B %Y',errors='coerce')
 d['year']=d.date.dt.year
 d['level']=d.level.str.strip()
-d.to_pickle('work/all.pkl')
+d.to_pickle(OUT)
 print(d.groupby('state').size()); print(d.isna().sum()[lambda s:s>0])
 print(d.groupby(['state','year']).size().unstack(0))
 print(d.date.min(), d.date.max())

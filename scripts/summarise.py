@@ -1,5 +1,7 @@
-import pandas as pd, numpy as np
-d=pd.read_pickle('work/all.pkl')
+import pandas as pd, numpy as np, sys
+# usage: summarise.py [IN.pkl] [OUTDIR]
+IN,OD=(sys.argv[1:3]+['work/all.pkl','work'][len(sys.argv[1:3]):])
+d=pd.read_pickle(IN)
 # Pass 1: absolute junk (bulk/nominal transfers). Pass 2: scheme medians from what is left,
 # so a block of nominal sales can't drag a scheme's median down and flag its genuine sales.
 junk=d.psf<50
@@ -30,8 +32,8 @@ sch=sch.merge(ten,on=k).merge(rng,on=k).merge(early,on=k,how='left').merge(late,
 ok=(sch.n_e>=5)&(sch.n_l>=5)
 sch['PSF change 2021-22 → 2024-26']=np.where(ok,sch.psf_l/sch.psf_e-1,np.nan)
 S['by_scheme']=sch
-c.to_pickle('work/clean.pkl'); d.to_pickle('work/flagged.pkl')
-pd.to_pickle(S,'work/summ.pkl')
+c.to_pickle(f'{OD}/clean.pkl'); d.to_pickle(f'{OD}/flagged.pkl')
+pd.to_pickle(S,f'{OD}/summ.pkl')
 pd.set_option('display.width',200)
 print(S['by_state'].round(0).to_string()); print(S['by_state_year'].round(0).to_string())
 print(S['by_district'].round(0).to_string()); print(S['by_mukim'].sort_values('Transactions',ascending=False).head(15).round(0).to_string())

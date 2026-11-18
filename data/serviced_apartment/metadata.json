@@ -1,0 +1,31 @@
+{
+  "source": "National Property Information Centre (NAPIC), JPPH — Open Transaction Data (napic.jpph.gov.my/en/open-sales-data)",
+  "property_type": "Serviced Apartment (resales only)",
+  "states": [
+    "W.P. Kuala Lumpur",
+    "Selangor"
+  ],
+  "coverage": {
+    "first_month": "2025-01",
+    "last_month": "2026-09"
+  },
+  "downloaded": "2026-11",
+  "generated": "2026-11-18",
+  "transactions_total": 2164,
+  "transactions_used_in_medians": 2163,
+  "outliers_excluded": 1,
+  "outlier_rule": "step 1: psf_rm < 50; step 2: in schemes with 5+ sales left after step 1, psf below 0.4x or above 2.5x that scheme median psf (computed after step 1)",
+  "scheme_splits": {},
+  "sqm_to_sqft": 10.7639,
+  "note": "Recent months incomplete: sales appear only after stamping. Area is NAPIC parcel area.",
+  "files": {
+    "summary/by_state": 2,
+    "summary/by_state_year": 4,
+    "summary/by_district": 8,
+    "summary/by_district_tenure": 13,
+    "summary/by_district_year": 15,
+    "summary/by_mukim": 58,
+    "summary/by_mukim_year": 102,
+    "summary/by_scheme": 478
+  }
+}

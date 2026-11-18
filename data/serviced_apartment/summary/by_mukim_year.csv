@@ -1,0 +1,103 @@
+state,district,mukim,year,transactions,median_price_rm,median_psf_rm,median_size_sqft
+Selangor,Gombak,Bandar Hulu Kelang,2025,2,392500,596,662
+Selangor,Gombak,Bandar Hulu Kelang,2026,2,495000,644,758
+Selangor,Gombak,Bandar Kepong,2025,5,819000,506,1582
+Selangor,Gombak,Bandar Kundang,2025,1,315000,324,972
+Selangor,Gombak,Bandar Selayang,2025,10,390000,380,1022
+Selangor,Gombak,Bandar Selayang,2026,10,500000,508,1026
+Selangor,Gombak,Hulu Klang,2025,3,450000,604,1086
+Selangor,Gombak,Setapak,2025,5,315000,491,570
+Selangor,Gombak,Setapak,2026,1,320000,561,570
+Selangor,Hulu Langat,Ampang,2025,4,475000,769,618
+Selangor,Hulu Langat,Ampang,2026,1,450000,540,833
+Selangor,Hulu Langat,Bandar Ampang,2025,5,320000,708,452
+Selangor,Hulu Langat,Bandar Ampang,2026,1,3010000,2118,1421
+Selangor,Hulu Langat,Bandar Baru Bangi,2025,1,440000,517,850
+Selangor,Hulu Langat,Bandar Batu 18 Semenyih,2025,2,700000,529,1260
+Selangor,Hulu Langat,Bandar Batu 9 Cheras,2025,9,290000,528,549
+Selangor,Hulu Langat,Bandar Batu 9 Cheras,2026,1,610000,675,904
+Selangor,Hulu Langat,Bandar Cheras,2025,6,420000,595,856
+Selangor,Hulu Langat,Bandar Cheras,2026,8,498000,567,926
+Selangor,Hulu Langat,Bandar Kajang,2025,8,422000,481,910
+Selangor,Hulu Langat,Bandar Kajang,2026,14,345000,324,1071
+Selangor,Hulu Langat,Beranang,2025,4,429000,376,1125
+Selangor,Hulu Langat,Beranang,2026,3,360000,380,947
+Selangor,Hulu Langat,Pekan Cheras,2025,11,475000,573,872
+Selangor,Hulu Langat,Pekan Cheras,2026,9,450000,604,861
+Selangor,Hulu Langat,Pekan Kajang,2025,13,533000,470,1152
+Selangor,Hulu Langat,Pekan Kajang,2026,7,646000,561,1152
+Selangor,Hulu Langat,Pekan Kg Sungai Tangkas,2025,3,250000,376,452
+Selangor,Hulu Langat,Pekan Kg Sungai Tangkas,2026,2,277500,351,802
+Selangor,Hulu Langat,Semenyih,2025,2,340000,406,840
+Selangor,Hulu Langat,Semenyih,2026,2,336000,455,786
+Selangor,Klang,Bandar Kelang,2025,1,297000,541,549
+Selangor,Klang,Bandar Kelang,2026,1,587000,551,1066
+Selangor,Klang,Bandar Klang,2026,2,297000,541,549
+Selangor,Klang,Bandar Kota Kemuning,2026,3,530000,508,1044
+Selangor,Klang,Kelang,2025,8,465000,566,878
+Selangor,Klang,Kelang,2026,2,498500,549,942
+Selangor,Klang,Pekan Pendamaran,2025,1,380000,579,657
+Selangor,Kuala Langat,Tanjung 12,2025,8,410000,425,1001
+Selangor,Kuala Langat,Tanjung 12,2026,18,425000,502,990
+Selangor,Kuala Selangor,Ijok,2025,1,270000,321,842
+Selangor,Petaling,Bandar Petaling Jaya,2025,46,860000,926,930
+Selangor,Petaling,Bandar Petaling Jaya,2026,31,600000,810,904
+Selangor,Petaling,Bandar Shah Alam,2025,11,420000,494,732
+Selangor,Petaling,Bandar Shah Alam,2026,6,360000,379,953
+Selangor,Petaling,Bandar Subang Jaya,2025,37,450000,570,883
+Selangor,Petaling,Bandar Subang Jaya,2026,18,470000,577,845
+Selangor,Petaling,Bdr Damansara,2025,3,933000,922,1012
+Selangor,Petaling,Bdr Damansara,2026,2,1256000,765,1614
+Selangor,Petaling,Bdr Glenmarie,2025,1,705000,762,926
+Selangor,Petaling,Bdr Petaling Jaya Selatan,2025,1,400000,729,549
+Selangor,Petaling,Bdr Saujana,2025,5,575000,562,1378
+Selangor,Petaling,Bdr Saujana,2026,2,730500,541,1356
+Selangor,Petaling,Bdr Sri Damansara,2025,2,1319000,882,1496
+Selangor,Petaling,Bdr Sri Damansara,2026,2,1036500,948,1104
+Selangor,Petaling,Bdr Sunway,2025,10,577500,960,592
+Selangor,Petaling,Bdr Sunway,2026,4,1020000,983,1033
+Selangor,Petaling,Bukit Raja,2025,23,480000,513,1001
+Selangor,Petaling,Bukit Raja,2026,19,460000,494,1001
+Selangor,Petaling,Damansara,2025,52,488000,574,878
+Selangor,Petaling,Damansara,2026,22,460000,573,996
+Selangor,Petaling,Pekan Baru Sg Besi,2025,1,185000,385,480
+Selangor,Petaling,Pekan Baru Sg Besi,2026,1,175000,365,480
+Selangor,Petaling,Pekan Baru Sg Buluh,2025,8,499000,512,962
+Selangor,Petaling,Pekan Baru Sg Buluh,2026,10,490000,507,966
+Selangor,Petaling,Pekan Country Heights,2025,2,445000,806,552
+Selangor,Petaling,Pekan Country Heights,2026,3,395000,644,614
+Selangor,Petaling,Pekan Kayu Ara,2025,9,370000,812,452
+Selangor,Petaling,Pekan Kayu Ara,2026,4,507500,667,850
+Selangor,Petaling,Pekan Kinrara,2025,13,560000,420,1206
+Selangor,Petaling,Pekan Kinrara,2026,12,482500,419,1119
+Selangor,Petaling,Pekan Penaga,2025,6,600000,585,991
+Selangor,Petaling,Pekan Puchong Jaya,2025,6,432500,438,1098
+Selangor,Petaling,Pekan Puchong Jaya,2026,6,445000,410,1076
+Selangor,Petaling,Pekan Puchong Perdana,2025,1,260000,327,795
+Selangor,Petaling,Pekan Serdang,2025,16,330000,316,1066
+Selangor,Petaling,Pekan Serdang,2026,6,250000,252,1046
+Selangor,Petaling,Pekan Subang Jaya,2025,54,430000,535,866
+Selangor,Petaling,Pekan Subang Jaya,2026,26,335000,487,754
+Selangor,Petaling,Petaling,2025,10,395000,492,844
+Selangor,Petaling,Petaling,2026,5,580000,589,1023
+Selangor,Petaling,Sungai Buluh,2025,19,400000,509,979
+Selangor,Petaling,Sungai Buluh,2026,12,352500,487,996
+Selangor,Sepang,Bandar Cyberjaya,2025,5,285000,540,639
+Selangor,Sepang,Bandar Cyberjaya,2026,5,387000,836,463
+Selangor,Sepang,Bdr Baru Bangi,2026,1,350000,478,732
+Selangor,Sepang,Dengkil,2025,46,438500,642,883
+Selangor,Sepang,Dengkil,2026,80,525000,645,952
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,2025,517,1105000,1105,958
+W.P. Kuala Lumpur,Kuala Lumpur,Kuala Lumpur Town Centre,2026,199,1091000,1007,1023
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Ampang,2025,2,710000,711,1006
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Ampang,2026,5,495000,707,700
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,2025,112,867500,783,1076
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Batu,2026,59,772000,745,1012
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,2025,113,740000,812,850
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Kuala Lumpur,2026,71,800000,807,850
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,2025,90,488000,609,926
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Petaling,2026,64,550000,639,898
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,2025,33,520000,576,926
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Setapak,2026,30,450000,516,872
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Ulu Kelang,2025,2,507500,520,980
+W.P. Kuala Lumpur,Kuala Lumpur,Mukim Ulu Kelang,2026,2,551000,492,1119

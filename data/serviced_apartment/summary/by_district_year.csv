@@ -1,0 +1,16 @@
+state,district,year,transactions,median_price_rm,median_psf_rm,median_size_sqft
+Selangor,Gombak,2025,26,390000,493,986
+Selangor,Gombak,2026,13,470000,542,1001
+Selangor,Hulu Langat,2025,68,445000,528,866
+Selangor,Hulu Langat,2026,48,382500,492,926
+Selangor,Klang,2025,10,435000,564,770
+Selangor,Klang,2026,8,515000,541,964
+Selangor,Kuala Langat,2025,8,410000,425,1001
+Selangor,Kuala Langat,2026,18,425000,502,990
+Selangor,Kuala Selangor,2025,1,270000,321,842
+Selangor,Petaling,2025,336,498000,563,944
+Selangor,Petaling,2026,191,480000,533,969
+Selangor,Sepang,2025,51,420000,611,850
+Selangor,Sepang,2026,86,501000,647,947
+W.P. Kuala Lumpur,Kuala Lumpur,2025,869,1000000,929,958
+W.P. Kuala Lumpur,Kuala Lumpur,2026,430,771000,791,958

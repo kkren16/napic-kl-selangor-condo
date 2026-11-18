@@ -1,9 +1,15 @@
-# KL & Selangor condo/apartment transaction data (NAPIC, 2021–2026)
+# KL & Selangor high-rise residential transaction data (NAPIC)
 
-Cleaned resale transactions and median price summaries for **Condominium/Apartment** properties in **W.P. Kuala Lumpur** and **Selangor**. The data comes from NAPIC's Open Transaction Data.
+Cleaned resale transactions and median price summaries for high-rise homes in **W.P. Kuala Lumpur** and **Selangor**. The data comes from NAPIC's Open Transaction Data, as two separate datasets:
 
-- 40,492 recorded resales, dated January 2021 to September 2026
-- Summaries at state, district, mukim and scheme level, covering the full period and 2024–2026 only
+| Dataset | Folder | Sales | Period |
+|---|---|---|---|
+| **Condominium/Apartment** | `data/` | 40,492 | Jan 2021 – Sep 2026 |
+| **Serviced Apartment** | `data/serviced_apartment/` | 2,164 | Jan 2025 – Sep 2026 |
+
+The datasets are kept separate because NAPIC classes serviced apartments differently from condos (usually as commercial property). Their figures shouldn't be pooled without noting that.
+
+- Summaries at state, district, mukim and scheme level
 - CSV for everything, plus JSON for the summaries
 
 ## Fetching the data
@@ -23,6 +29,9 @@ const BASE = "https://cdn.jsdelivr.net/gh/kkren16/napic-kl-selangor-condo@main/d
 const mukims = await fetch(`${BASE}/summary_2024_2026/by_mukim.json`).then(r => r.json());
 const setapak = mukims.find(m => m.mukim === "Mukim Setapak");
 console.log(setapak.median_psf_rm); // 389 (2024–2026)
+
+// Serviced apartments: same file names, under serviced_apartment/
+const sa = await fetch(`${BASE}/serviced_apartment/summary/by_scheme.json`).then(r => r.json());
 ```
 
 Python:
@@ -35,6 +44,8 @@ schemes = pd.read_csv(f"{BASE}/summary/by_scheme.csv")
 ```
 
 ## Files
+
+### Condominium/Apartment (`data/`)
 
 | File | What it holds |
 |---|---|
@@ -50,6 +61,13 @@ schemes = pd.read_csv(f"{BASE}/summary/by_scheme.csv")
 | `data/summary_2024_2026/*` | The same summaries using only sales from 2024 onward |
 | `data/metadata.json` | Source, coverage, row counts and the outlier rule |
 
+### Serviced Apartment (`data/serviced_apartment/`)
+
+This folder uses the same file names and columns as the condo dataset: `transactions.csv`, `summary/by_*.csv|json` and `metadata.json`. There is no 2024–2026 folder, because the whole dataset starts in 2025.
+
+- **Shorter period:** the NAPIC download covers January 2025 to September 2026 only, so most schemes have just a few sales. Check the `transactions` column before relying on a median.
+- **1 outlier** is excluded from the medians, using the same rule as the condo dataset.
+
 Each summary comes as both `.csv` and `.json`. The JSON is an array of records.
 
 ### Columns
@@ -60,7 +78,7 @@ Each summary comes as both `.csv` and `.json`. The JSON is an array of records.
 
 ## Method
 
-1. **Source:** NAPIC Open Transaction Data, property type Condominium/Apartment, downloaded separately for W.P. Kuala Lumpur and Selangor in November 2026.
+1. **Source:** NAPIC Open Transaction Data, downloaded separately for W.P. Kuala Lumpur and Selangor in November 2026: property type Condominium/Apartment, and separately Serviced Apartment. Both datasets go through the same steps below.
 2. **Merged cells:** the NAPIC Excel export merges cells for repeated values (scheme, month, tenure, area, unit level). Each merged value was copied to every row it covers.
 3. **Size and PSF:** NAPIC gives parcel area in square metres. This was converted at 1 sq m = 10.7639 sq ft. PSF = price ÷ parcel area in sq ft.
 4. **Scheme splits:** NAPIC records two developments as "THE ORION" (KL Town Centre). They are split by PSF at RM1,000 into `THE ORION (JALAN TUN RAZAK)`, the 2006 condo at about RM430–600 psf, and `THE ORION (NEWER HIGH-RISE, 2024 TRANSFERS)`, at about RM1,800–3,900 psf. Other scheme names may also cover more than one development, so check sizes and PSF before relying on a single scheme.
@@ -72,7 +90,7 @@ The scripts in `scripts/` reproduce the outputs from the raw NAPIC downloads.
 ## Limitations
 
 - **Resales only.** Developer (primary market) sales are not included.
-- **Serviced residences and SOHOs** are usually classed as commercial by NAPIC, so they are not in this property type.
+- **Serviced residences** are not in the condo dataset, because NAPIC usually classes them as commercial property. They are in `data/serviced_apartment/` instead. SOHOs and other commercial units are in neither dataset.
 - **2025 and 2026 are incomplete.** A sale appears only after its transfer is stamped and recorded, which can take months.
 - **Mukim are NAPIC's administrative boundaries.** They may not match everyday neighbourhood names. For example, there is no "Titiwangsa" mukim.
 - **Missing details:** there are no unit numbers, exact dates, unit condition or corner/end-lot information.
